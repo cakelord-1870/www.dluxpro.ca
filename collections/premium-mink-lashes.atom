@@ -1,0 +1,5155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.dluxpro.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.dluxpro.ca/collections/premium-mink-lashes.atom"/>
+  <title>Lash for Less</title>
+  <updated>2021-02-09T12:28:04-07:00</updated>
+  <author>
+    <name>Lash for Less</name>
+  </author>
+  <entry>
+    <id>https://www.dluxpro.ca/products/5014324052054</id>
+    <published>2021-02-09T12:28:04-07:00</published>
+    <updated>2021-02-09T12:28:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/dlux-premium-mink-m-curl"/>
+    <title>Dlux Premium Mink - M Curl</title>
+    <s:type>Lash Lift</s:type>
+    <s:vendor>Dlux</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/image_92bb168e-53c6-484b-a087-204f23cbe073.jpg?v=1613251398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dlux<br>
+        <strong>Type: </strong>Lash Lift<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span data-mce-fragment="1">Dlux Premium Mink - M Curl</span></h3>
+<h3>Dlux Professional Mink Lashes are precision manufactured from sterilized PBT materials from Korea and have a deep, solid black finish.  Through precision manufacturing, our lashes retain their curl beautifully!  </h3>
+<div><br></div>
+<p><span>Number of rows in a box: 12</span><span> </span><br><strong>Thickness:</strong><span>                   0.03mm, 0.05 mm, 0.15 mm</span><br><strong>Curl Type:</strong><span>                    M</span><br><strong>Individual lengths:</strong><span>  8 ~ 15 mm </span><br><strong>Mixed Lengths:</strong><span>      8-14mm</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cil</s:tag>
+    <s:tag>cils</s:tag>
+    <s:tag>faux mink</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>lashes</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>M curl</s:tag>
+    <s:tag>mink</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5014324052054</id>
+      <title>M / 0.03mm / MIX</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5014324052054</id>
+      <title>M / 0.05mm / MIX</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5014324052054</id>
+      <title>M / 0.05mm / 8mm</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5014324052054</id>
+      <title>M / 0.05mm / 9mm</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5014324052054</id>
+      <title>M / 0.05mm / 10mm</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5014324052054</id>
+      <title>M / 0.05mm / 11mm</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5014324052054</id>
+      <title>M / 0.05mm / 12mm</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5014324052054</id>
+      <title>M / 0.05mm / 13mm</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5014324052054</id>
+      <title>M / 0.05mm / 14mm</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5014324052054</id>
+      <title>M / 0.05mm / 15mm</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5014324052054</id>
+      <title>M / 0.15mm / MIX</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/4951757848662</id>
+    <published>2020-11-07T15:44:40-07:00</published>
+    <updated>2020-11-07T15:44:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/clearance-dlux-premium-mink-d-curl"/>
+    <title>CLEARANCE Dlux Premium Mink - D Curl 0.12MM</title>
+    <s:type>Eyelashes</s:type>
+    <s:vendor>Dlux</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/eyelash_c1_ea1d8637-eb78-4f58-a434-989894a7ae78.jpg?v=1604788468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dlux<br>
+        <strong>Type: </strong>Eyelashes<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dlux Professional Mink Lashes are precision manufactured from sterilized PBT materials from Korea and have a deep, solid black finish.  Through precision manufacturing, our lashes retain their curl beautifully!</p>
+<h4>All Dlux Pro lashes are triple treated to retain their beautiful curl.  All lashes go through a 6 point inspection process to ensure perfect length, thickness and curl.</h4>
+<p><span>Number of rows in a box: 12</span></p>
+<strong>Thickness:</strong>                       0.12mm<br><strong>Curl Type:  </strong>                      D <br><strong>Individual lengths:  </strong>     7 ~ 16 mm<br><strong>Mixed Lengths:</strong> 8mm-14mm</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cil</s:tag>
+    <s:tag>cils</s:tag>
+    <s:tag>courbe d</s:tag>
+    <s:tag>d</s:tag>
+    <s:tag>d curl</s:tag>
+    <s:tag>extension</s:tag>
+    <s:tag>extensions</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>eyelashes</s:tag>
+    <s:tag>faux</s:tag>
+    <s:tag>faux mink</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>lashes</s:tag>
+    <s:tag>mink</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951757848662</id>
+      <title>D / 0.12mm / 7mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951757848662</id>
+      <title>D / 0.12mm / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951757848662</id>
+      <title>D / 0.12mm / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951757848662</id>
+      <title>D / 0.12mm / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951757848662</id>
+      <title>D / 0.12mm / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951757848662</id>
+      <title>D / 0.12mm / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951757848662</id>
+      <title>D / 0.12mm / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951757848662</id>
+      <title>D / 0.12mm / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951757848662</id>
+      <title>D / 0.12mm / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951757848662</id>
+      <title>D / 0.12mm / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/4951739793494</id>
+    <published>2020-11-07T15:29:30-07:00</published>
+    <updated>2020-11-07T15:29:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/clearance-dlux-premium-mink-cc-curl"/>
+    <title>CLEARANCE Dlux Premium Mink - CC Curl</title>
+    <s:type>Eyelashes</s:type>
+    <s:vendor>Dlux</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/eyelash_c1_e5e77d4f-d55d-4ac2-9da0-52041f735fd6.jpg?v=1604786238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dlux<br>
+        <strong>Type: </strong>Eyelashes<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Dlux Professional Mink Lashes are precision manufactured from sterilized PBT materials from Korea and have a deep, solid black finish.  Through precision manufacturing, our lashes retain their curl beautifully!  </h3>
+<div></div>
+<span>Number of rows in a box: 12</span><span> </span><br><strong>Thickness:</strong><span>                    0.12mm,  0.18 mm, 0.20 mm </span><br><strong>Curl Type:</strong><span>                     CC</span><br><strong>Individual lengths:</strong><span>  7 ~ 16 mm </span><br><strong>Mixed Lengths:</strong><span>      8-14mm</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cc</s:tag>
+    <s:tag>cc curl</s:tag>
+    <s:tag>cil</s:tag>
+    <s:tag>cils</s:tag>
+    <s:tag>courbe cc</s:tag>
+    <s:tag>extension</s:tag>
+    <s:tag>extensions</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>faux</s:tag>
+    <s:tag>faux mink</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>mink</s:tag>
+    <s:tag>volume</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951739793494</id>
+      <title>CC / 0.12mm / 7mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951739793494</id>
+      <title>CC / 0.12mm / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951739793494</id>
+      <title>CC / 0.12mm / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951739793494</id>
+      <title>CC / 0.12mm / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951739793494</id>
+      <title>CC / 0.12mm / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951739793494</id>
+      <title>CC / 0.12mm / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951739793494</id>
+      <title>CC / 0.12mm / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951739793494</id>
+      <title>CC / 0.12mm / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951739793494</id>
+      <title>CC / 0.12mm / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951739793494</id>
+      <title>CC / 0.12mm / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951739793494</id>
+      <title>CC / 0.2mm / 7mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951739793494</id>
+      <title>CC / 0.2mm / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951739793494</id>
+      <title>CC / 0.2mm / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951739793494</id>
+      <title>CC / 0.2mm / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951739793494</id>
+      <title>CC / 0.2mm / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951739793494</id>
+      <title>CC / 0.2mm / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951739793494</id>
+      <title>CC / 0.2mm / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951739793494</id>
+      <title>CC / 0.2mm / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951739793494</id>
+      <title>CC / 0.2mm / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951739793494</id>
+      <title>CC / 0.2mm / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/4951737925718</id>
+    <published>2020-11-07T14:55:33-07:00</published>
+    <updated>2020-11-07T14:55:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/clearance-dlux-premium-mink-c-curl"/>
+    <title>CLEARANCE Dlux Premium Mink - C Curl 0.12MM</title>
+    <s:type>Eyelashes</s:type>
+    <s:vendor>Dlux</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/eyelash_c1.jpg?v=1604785923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dlux<br>
+        <strong>Type: </strong>Eyelashes<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ol>
+<li>Dlux Professional Mink Lashes are precision manufactured from sterilized PBT materials from Korea and have a deep, solid black finish.  Through precision manufacturing, our lashes retain their curl beautifully!</li>
+</ol>
+<h4>All Dlux Pro lashes are triple treated to retain their beautiful curl.  All lashes go through a 6 point inspection process to ensure perfect length, thickness and curl.</h4>
+<p>Number of rows in a box: 12 <br><strong>Thickness:</strong>                 0.12mm</p>
+<p><strong>Curl Type:  </strong>                   C<br><strong>Individual lengths:</strong>  7 ~ 16 mm <br><strong>Mixed Lengths:</strong>  8mm-14mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0.03</s:tag>
+    <s:tag>0.04</s:tag>
+    <s:tag>0.05</s:tag>
+    <s:tag>0.07</s:tag>
+    <s:tag>c</s:tag>
+    <s:tag>c curl</s:tag>
+    <s:tag>cils</s:tag>
+    <s:tag>courbe c</s:tag>
+    <s:tag>extension</s:tag>
+    <s:tag>extensions</s:tag>
+    <s:tag>eye</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>faux</s:tag>
+    <s:tag>faux mink</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>mink</s:tag>
+    <s:tag>volume</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951737925718</id>
+      <title>C / 0.12mm / 7mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951737925718</id>
+      <title>C / 0.12mm / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951737925718</id>
+      <title>C / 0.12mm / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951737925718</id>
+      <title>C / 0.12mm / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951737925718</id>
+      <title>C / 0.12mm / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951737925718</id>
+      <title>C / 0.12mm / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951737925718</id>
+      <title>C / 0.12mm / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951737925718</id>
+      <title>C / 0.12mm / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951737925718</id>
+      <title>C / 0.12mm / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4951737925718</id>
+      <title>C / 0.12mm / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku/>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/1362196070486</id>
+    <published>2018-08-28T14:57:17-06:00</published>
+    <updated>2018-08-28T14:57:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/dlux-premium-mink-dark-brown"/>
+    <title>Dlux Premium Mink - DARK BROWN</title>
+    <s:type>Colour Lashes</s:type>
+    <s:vendor>Dlux</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/darkbrown_338d1823-65f1-4a3b-a032-443d03e34c6b.jpg?v=1535675881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dlux<br>
+        <strong>Type: </strong>Colour Lashes<br>
+        <strong>Price: </strong>
+            23.95 - 24.95
+            <a href="https://www.dluxpro.ca/products/dlux-premium-mink-dark-brown">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Dlux Professional Mink Lashes are precision manufactured from sterilized PBT materials from Korea.  Through precision manufacturing, our lashes retain their curl beautifully!  </h3>
+<div></div>
+<span>Number of rows in a box: 12</span><span> </span><br><strong>Thickness:</strong><span>                   0.07 mm, 0.15 mm</span><br><strong>Curl Type:</strong><span>                    C</span><br><strong>Individual lengths:</strong><span>  8 ~ 14 mm </span><br><strong>Mixed Lengths:</strong><span>      8-14mm</span><br><span><strong>Colour:</strong> Dark Brown</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brown</s:tag>
+    <s:tag>brun</s:tag>
+    <s:tag>brun foncé</s:tag>
+    <s:tag>bruns</s:tag>
+    <s:tag>cils</s:tag>
+    <s:tag>couleur</s:tag>
+    <s:tag>dark brown</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>eyelashes</s:tag>
+    <s:tag>faux mink</s:tag>
+    <s:tag>mink</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/1362196070486</id>
+      <title>C / 0.07mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/1362196070486</id>
+      <title>C / 0.07mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/1362196070486</id>
+      <title>C / 0.07mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/1362196070486</id>
+      <title>C / 0.07mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/1362196070486</id>
+      <title>C / 0.07mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/1362196070486</id>
+      <title>C / 0.07mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/1362196070486</id>
+      <title>C / 0.07mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/1362196070486</id>
+      <title>C / 0.07mm / MIX</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/1362196070486</id>
+      <title>C / 0.15mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/1362196070486</id>
+      <title>C / 0.15mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/1362196070486</id>
+      <title>C / 0.15mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/1362196070486</id>
+      <title>C / 0.15mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/1362196070486</id>
+      <title>C / 0.15mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/1362196070486</id>
+      <title>C / 0.15mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/1362196070486</id>
+      <title>C / 0.15mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/1362196070486</id>
+      <title>C / 0.15mm / MIX</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/243729596440</id>
+    <published>2017-12-13T13:39:35-07:00</published>
+    <updated>2017-12-13T13:39:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/dlux-premium-mink-0-25mm-b-c-cc-d"/>
+    <title>CLEARANCE Dlux Premium Mink 0.25mm B,C,CC,D</title>
+    <s:type>Eyelashes</s:type>
+    <s:vendor>Dlux</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/mink025.jpg?v=1530557573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dlux<br>
+        <strong>Type: </strong>Eyelashes<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Dlux Professional Mink Lashes are precision manufactured from sterilized PBT materials from Korea and have a deep, solid black finish.  Through precision manufacturing, our lashes retain their curl beautifully!  </h3>
+<div></div>
+<span>Number of rows in a box: 12</span><span> </span><br><strong>Thickness:</strong><span>                   0.03mm, 0.04mm, 0.05mm, 0.07 mm, 0.1 mm, 0.15 mm, 0.18 mm, 0.20 mm and 0.25 mm </span><br><strong>Curl Type:</strong><span>                    B, C, CC, D, LB, LC and LD </span><br><strong>Individual lengths:</strong><span>  7 ~ 16 mm </span><br><strong>Mixed Lengths:</strong><span>      8-14mm</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / B / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / B / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / B / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / B / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / B / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / B / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / B / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / B / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / B / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / B / MIX</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / C / 7mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / C / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / C / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / C / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / C / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / C / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / C / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / C / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / C / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / C / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / C / MIX</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / CC / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / CC / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / CC / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / CC / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / CC / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / CC / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / CC / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / CC / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / CC / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / D / 7mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / D / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / D / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / D / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / D / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / D / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / D / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / D / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / D / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / D / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243729596440</id>
+      <title>0.25mm / D / MIX</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/10051307598</id>
+    <published>2017-03-21T10:14:00-06:00</published>
+    <updated>2017-03-21T10:14:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/dlux-premium-mink-cc-curl"/>
+    <title>Dlux Premium Mink - CC Curl</title>
+    <s:type>Eyelashes</s:type>
+    <s:vendor>Dlux</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/minkCCcurl.jpg?v=1530556185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dlux<br>
+        <strong>Type: </strong>Eyelashes<br>
+        <strong>Price: </strong>
+            23.95 - 24.95
+            <a href="https://www.dluxpro.ca/products/dlux-premium-mink-cc-curl">(99 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Dlux Professional Mink Lashes are precision manufactured from sterilized PBT materials from Korea and have a deep, solid black finish.  Through precision manufacturing, our lashes retain their curl beautifully!  </h3>
+<div></div>
+<span>Number of rows in a box: 12</span><span> </span><br><strong>Thickness:</strong><span>                   0.03mm, 0.04mm, 0.05mm, 0.07 mm, 0.1 mm, 0.12mm, 0.15 mm, 0.18 mm, 0.20 mm and 0.25 mm </span><br><strong>Curl Type:</strong><span>                    B, C, CC, D, LB, LC and LD </span><br><strong>Individual lengths:</strong><span>  7 ~ 16 mm </span><br><strong>Mixed Lengths:</strong><span>      8-14mm</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cc</s:tag>
+    <s:tag>cc curl</s:tag>
+    <s:tag>cil</s:tag>
+    <s:tag>cils</s:tag>
+    <s:tag>courbe cc</s:tag>
+    <s:tag>extension</s:tag>
+    <s:tag>extensions</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>faux</s:tag>
+    <s:tag>faux mink</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>mink</s:tag>
+    <s:tag>volume</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.03mm / 7mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC03-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.03mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC03-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.03mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC03-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.03mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC03-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.03mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC03-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.03mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC03-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.03mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC03-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.03mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC03-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.03mm / 15mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC03-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.03mm / 16mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC03-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.03mm / Mixed Tray</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>MINK-CC03-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.04mm / 7mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC04-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.04mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC04-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.04mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC04-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.04mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC04-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.04mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC04-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.04mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC04-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.04mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC04-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.04mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC04-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.04mm / 15mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC04-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.04mm / 16mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC04-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.04mm / Mixed Tray</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>MINK-CC04-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.05mm / 7mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC05-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.05mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC05-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.05mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC05-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.05mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC05-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.05mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC05-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.05mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC05-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.05mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC05-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.05mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC05-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.05mm / 15mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC05-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.05mm / 16mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC05-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.05mm / Mixed Tray</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>MINK-CC05-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.07mm / 7mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC07-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.07mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC07-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.07mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC07-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.07mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC07-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.07mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC07-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.07mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC07-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.07mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC07-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.07mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC07-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.07mm / 15mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC07-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.07mm / 16mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC07-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.07mm / Mixed Tray</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>MINK-CC07-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.1mm / 7mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC10-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.1mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC10-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.1mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC10-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.1mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC10-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.1mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC10-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.1mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC10-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.1mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC10-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.1mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC10-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.1mm / 15mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC10-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.1mm / 16mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC10-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.1mm / Mixed Tray</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>MINK-CC10-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.12mm / 7mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC12-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.12mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC12-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.12mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC12-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.12mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC12-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.12mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC12-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.12mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC12-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.12mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC12-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.12mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC12-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.12mm / 15mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC12-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.12mm / 16mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC12-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.12mm / Mixed Tray</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>MINK-CC12-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.15mm / 7mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC15-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.15mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC15-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.15mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC15-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.15mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC15-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.15mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC15-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.15mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC15-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.15mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC15-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.15mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC15-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.15mm / 15mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC15-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.15mm / 16mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC15-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.15mm / Mixed Tray</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>MINK-CC15-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.18mm / 7mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC18-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.18mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC18-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.18mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC18-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.18mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC18-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.18mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC18-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.18mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC18-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.18mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC18-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.18mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC18-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.18mm / 15mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC18-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.18mm / 16mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC18-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.18mm / Mixed Tray</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>MINK-CC18-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.2mm / 7mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC20-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.2mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC20-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.2mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC20-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.2mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC20-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.2mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC20-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.2mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC20-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.2mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC20-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.2mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC20-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.2mm / 15mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC20-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.2mm / 16mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-CC20-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10051307598</id>
+      <title>CC / 0.2mm / Mixed Tray</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>MINK-CC20-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/5391499523</id>
+    <published>2016-04-03T15:59:00-06:00</published>
+    <updated>2016-04-03T15:59:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/dlux-pro-premium-mink-individual-length-b-curl"/>
+    <title>Clearance Dlux Premium Mink - B Curl</title>
+    <s:type>Eyelashes</s:type>
+    <s:vendor>Dlux</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/minkBcurl.jpg?v=1530556588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dlux<br>
+        <strong>Type: </strong>Eyelashes<br>
+        <strong>Price: </strong>
+            14.95 - 15.95
+            <a href="https://www.dluxpro.ca/products/dlux-pro-premium-mink-individual-length-b-curl">(99 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Dlux Professional Mink Lashes are precision manufactured from sterilized PBT materials from Korea and have a deep, solid black finish.  Through precision manufacturing, our lashes retain their curl beautifully!  </h3>
+<div></div>
+<p><span>Number of rows in a box: 12</span> <br><strong>Thickness:</strong>                   0.07 mm, 0.1 mm, 0.15 mm, 0.18 mm, 0.20 mm and 0.25 mm <br><strong>Curl Type:</strong>                    B<br><strong>Individual lengths:</strong>  8 ~ 16 mm <br><strong>Mixed Lengths:</strong>      8-14mm</p>
+<p> </p>
+<p> </p>
+<p>Dlux is unfortunately discontinuing carrying B Curl trays. The prices have been reduced but product remains the high quality you expect from Dlux Professional. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b</s:tag>
+    <s:tag>b curl</s:tag>
+    <s:tag>cil</s:tag>
+    <s:tag>cils</s:tag>
+    <s:tag>courbe b</s:tag>
+    <s:tag>extension</s:tag>
+    <s:tag>extensions</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>eyelashes</s:tag>
+    <s:tag>faux</s:tag>
+    <s:tag>faux mink</s:tag>
+    <s:tag>mink</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.03mm / 7mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.03-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.03mm / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.03-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.03mm / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.03-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.03mm / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.03-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.03mm / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.03-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.03mm / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.03-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.03mm / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.03-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.03mm / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.03-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.03mm / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.03-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.03mm / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.03-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.03mm / Mixed Tray</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku>MINK-B.03-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.04mm / 7mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.04-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.04mm / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.04-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.04mm / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.04-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.04mm / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.04-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.04mm / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.04-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.04mm / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.04-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.04mm / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.04-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.04mm / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.04-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.04mm / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.04-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.04mm / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.04-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.04mm / Mixed Tray</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku>MINK-B.04-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.05mm / 7mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.05-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.05mm / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.05-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.05mm / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.05-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.05mm / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.05-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.05mm / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.05-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.05mm / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.05-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.05mm / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.05-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.05mm / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.05-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.05mm / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.05-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.05mm / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.05-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.05mm / Mixed Tray</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku>MINK-B.05-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.07mm / 7mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.07-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.07mm / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.07-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.07mm / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.07-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.07mm / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.07-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.07mm / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.07-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.07mm / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.07-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.07mm / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.07-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.07mm / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.07-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.07mm / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.07-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.07mm / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.07-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.07mm / Mixed Tray</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku>MINK-B.07-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.10mm / 7mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.10-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.10mm / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.10-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.10mm / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.10-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.10mm / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.10-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.10mm / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.10-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.10mm / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.10-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.10mm / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.10-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.10mm / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.10-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.10mm / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.10-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.10mm / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.10-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.10mm / Mixed Tray</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku>MINK-B.10-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.12mm / 7mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.12-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.12mm / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.12-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.12mm / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.12-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.12mm / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.12-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.12mm / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.12-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.12mm / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.12-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.12mm / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.12-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.12mm / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.12-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.12mm / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.12-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.12mm / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.12-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.12mm / Mixed Tray</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku>MINK-B.12-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.15mm / 7mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.15-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.15mm / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.15-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.15mm / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.15-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.15mm / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.15-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.15mm / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.15-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.15mm / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.15-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.15mm / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.15-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.15mm / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.15-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.15mm / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.15-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.15mm / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.15-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.15mm / Mixed Tray</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku>MINK-B.15-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.18mm / 7mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.18-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.18mm / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.18-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.18mm / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.18-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.18mm / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.18-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.18mm / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.18-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.18mm / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.18-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.18mm / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.18-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.18mm / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.18-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.18mm / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.18-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.18mm / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.18-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.18mm / Mixed Tray</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku>MINK-B.18-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.20mm / 7mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.20-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.20mm / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.20-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.20mm / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.20-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.20mm / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.20-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.20mm / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.20-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.20mm / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.20-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.20mm / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.20-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.20mm / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.20-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.20mm / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.20-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.20mm / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-B.20-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391499523</id>
+      <title>B / 0.20mm / Mixed Tray</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku>MINK-B.20-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/5391560131</id>
+    <published>2016-02-20T08:37:00-07:00</published>
+    <updated>2016-02-20T08:37:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/dlux-pro-premium-mink-individual-length-d-curl-1"/>
+    <title>Dlux Premium Mink - D Curl</title>
+    <s:type>Eyelashes</s:type>
+    <s:vendor>Dlux</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/minkDcurl.jpg?v=1530556156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dlux<br>
+        <strong>Type: </strong>Eyelashes<br>
+        <strong>Price: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dlux Professional Mink Lashes are precision manufactured from sterilized PBT materials from Korea and have a deep, solid black finish.  Through precision manufacturing, our lashes retain their curl beautifully!</p>
+<h4>All Dlux Pro lashes are triple treated to retain their beautiful curl.  All lashes go through a 6 point inspection process to ensure perfect length, thickness and curl.</h4>
+<p><span>Number of rows in a box: 12</span></p>
+<strong>Thickness:</strong>                      0.03mm, 0.04mm, 0.05mm, 0.07 mm, 0.1 mm, 0.12mm, 0.15 mm, 0.18 mm, 0.20 mm and 0.25 mm <br><strong>Curl Type:  </strong>                      B, C, CC, D, LB, LC and LD <br><strong>Individual lengths:  </strong>     7 ~ 16 mm<br><strong>Mixed Lengths:</strong> 8mm-14mm</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cil</s:tag>
+    <s:tag>cils</s:tag>
+    <s:tag>courbe d</s:tag>
+    <s:tag>d</s:tag>
+    <s:tag>d curl</s:tag>
+    <s:tag>extension</s:tag>
+    <s:tag>extensions</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>eyelashes</s:tag>
+    <s:tag>faux</s:tag>
+    <s:tag>faux mink</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>lashes</s:tag>
+    <s:tag>mink</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.03mm / 7mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.03-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.03mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.03-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.03mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.03-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.03mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.03-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.03mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.03-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.03mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.03-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.03mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.03-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.03mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.03-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.03mm / 15mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.03-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.03mm / 16mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.03-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.03mm / Mixed Tray</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.03-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.04mm / 7mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.04-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.04mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.04-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.04mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.04-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.04mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.04-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.04mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.04-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.04mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.04-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.04mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.04-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.04mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.04-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.04mm / 15mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.04-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.04mm / 16mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.04-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.04mm / Mixed Tray</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.04-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.05mm / 7mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.05-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.05mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.05-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.05mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.05-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.05mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.05-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.05mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.05-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.05mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.05-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.05mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.05-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.05mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.05-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.05mm / 15mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.05-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.05mm / 16mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.05-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.05mm / Mixed Tray</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.05-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.07mm / 7mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.07-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.07mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.07-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.07mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.07-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.07mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.07-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.07mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.07-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.07mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.07-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.07mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.07-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.07mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.07-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.07mm / 15mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.07-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.07mm / 16mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.07-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.07mm / Mixed Tray</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.07-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.10mm / 7mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.10-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.10mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.10-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.10mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.10-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.10mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.10-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.10mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.10-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.10mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.10-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.10mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.10-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.10mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.10-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.10mm / 15mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.10-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.10mm / 16mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.10-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.10mm / Mixed Tray</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.10-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.12mm / 7mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.12-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.12mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.12-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.12mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.12-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.12mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.12-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.12mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.12-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.12mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.12-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.12mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.12-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.12mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.12-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.12mm / 15mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.12-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.12mm / 16mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.12-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.12mm / Mixed Tray</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.12-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.15mm / 7mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.15-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.15mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.15-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.15mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.15-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.15mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.15-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.15mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.15-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.15mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.15-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.15mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.15-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.15mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.15-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.15mm / 15mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.15-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.15mm / 16mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.15-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.15mm / Mixed Tray</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.15-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.18mm / 7mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.18-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.18mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.18-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.18mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.18-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.18mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.18-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.18mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.18-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.18mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.18-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.18mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.18-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.18mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.18-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.18mm / 15mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.18-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.18mm / 16mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.18-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.18mm / Mixed Tray</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.18-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.20mm / 7mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.20-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.20mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.20-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.20mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.20-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.20mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.20-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.20mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.20-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.20mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.20-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.20mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.20-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.20mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.20-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.20mm / 15mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.20-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.20mm / 16mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.20-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391560131</id>
+      <title>D / 0.20mm / Mixed Tray</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-D.20-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/5391512451</id>
+    <published>2016-02-20T08:27:00-07:00</published>
+    <updated>2016-02-20T08:27:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/dlux-pro-premium-mink-individual-length-c-curl"/>
+    <title>Dlux Premium Mink - C Curl</title>
+    <s:type>Eyelashes</s:type>
+    <s:vendor>Dlux</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/minkccurl.jpg?v=1530555857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dlux<br>
+        <strong>Type: </strong>Eyelashes<br>
+        <strong>Price: </strong>
+            23.95 - 24.95
+            <a href="https://www.dluxpro.ca/products/dlux-pro-premium-mink-individual-length-c-curl">(99 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ol>
+<li>Dlux Professional Mink Lashes are precision manufactured from sterilized PBT materials from Korea and have a deep, solid black finish.  Through precision manufacturing, our lashes retain their curl beautifully!</li>
+</ol>
+<h4>All Dlux Pro lashes are triple treated to retain their beautiful curl.  All lashes go through a 6 point inspection process to ensure perfect length, thickness and curl.</h4>
+Number of rows in a box: 12 <br><strong>Thickness:</strong>                 0.03mm, 0.04mm, 0.05mm,  0.07 mm, 0.1 mm, 0.12mm , 0.15 mm, 0.18 mm, 0.20 mm and 0.25 mm <br><strong>Curl Type:  </strong>                  B, C, CC, D, LB, LC and LD <br><strong>Individual lengths:</strong>  7 ~ 16 mm <br><strong>Mixed Lengths:</strong>  8mm-14mm</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0.03</s:tag>
+    <s:tag>0.04</s:tag>
+    <s:tag>0.05</s:tag>
+    <s:tag>0.07</s:tag>
+    <s:tag>c</s:tag>
+    <s:tag>c curl</s:tag>
+    <s:tag>cils</s:tag>
+    <s:tag>courbe c</s:tag>
+    <s:tag>extension</s:tag>
+    <s:tag>extensions</s:tag>
+    <s:tag>eye</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>faux</s:tag>
+    <s:tag>faux mink</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>mink</s:tag>
+    <s:tag>volume</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.03mm / 7mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.03-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.03mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.03-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.03mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.03-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.03mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.03-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.03mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.03-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.03mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.03-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.03mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.03-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.03mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.03-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.03mm / 15mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.03-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.03mm / 16mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.03-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.03mm / Mixed Tray</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>MINK-C.03-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.04mm / 7mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.04-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.04mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.04-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.04mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.04-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.04mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.04-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.04mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.04-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.04mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.04-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.04mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.04-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.04mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.04-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.04mm / 15mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.04-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.04mm / 16mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.04-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.04mm / Mixed Tray</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>MINK-C.04-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.05mm / 7mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.05-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.05mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.05-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.05mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.05-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.05mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.05-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.05mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.05-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.05mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.05-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.05mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.05-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.05mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.05-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.05mm / 15mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.05-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.05mm / 16mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.05-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.05mm / Mixed Tray</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>MINK-C.05-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.07mm / 7mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.07-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.07mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.07-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.07mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.07-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.07mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.07-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.07mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.07-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.07mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.07-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.07mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.07-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.07mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.07-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.07mm / 15mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.07-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.07mm / 16mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.07-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.07mm / Mixed Tray</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>MINK-C.07-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.10mm / 7mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.10-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.10mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.10-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.10mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.10-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.10mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.10-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.10mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.10-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.10mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.10-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.10mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.10-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.10mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.10-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.10mm / 15mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.10-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.10mm / 16mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.10-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.10mm / Mixed Tray</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>MINK-C.10-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.12mm / 7mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.12-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.12mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.12-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.12mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.12-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.12mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.12-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.12mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.12-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.12mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.12-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.12mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.12-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.12mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.12-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.12mm / 15mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.12-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.12mm / 16mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.12-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.12mm / Mixed Tray</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>MINK-C.12-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.15mm / 7mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.15-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.15mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.15-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.15mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.15-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.15mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.15-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.15mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.15-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.15mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.15-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.15mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.15-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.15mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.15-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.15mm / 15mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.15-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.15mm / 16mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.15-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.15mm / Mixed Tray</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>MINK-C.15-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.18mm / 7mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.18-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.18mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.18-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.18mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.18-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.18mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.18-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.18mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.18-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.18mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.18-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.18mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.18-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.18mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.18-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.18mm / 15mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.18-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.18mm / 16mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.18-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.18mm / Mixed Tray</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>MINK-C.18-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.20mm / 7mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.20-07</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.20mm / 8mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.20-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.20mm / 9mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.20-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.20mm / 10mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.20-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.20mm / 11mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.20-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.20mm / 12mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.20-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.20mm / 13mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.20-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.20mm / 14mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.20-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.20mm / 15mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.20-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.20mm / 16mm</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>MINK-C.20-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391512451</id>
+      <title>C / 0.20mm / Mixed Tray</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>MINK-C.20-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/5391480259</id>
+    <published>2016-02-20T08:17:00-07:00</published>
+    <updated>2016-02-20T08:17:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/dlux-pro-premium-mink-individual-length-ld-curl"/>
+    <title>CLEARANCE Dlux Premium Mink - LD Curl</title>
+    <s:type>Eyelashes</s:type>
+    <s:vendor>Dlux</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/minkLD1curl.jpg?v=1530556558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dlux<br>
+        <strong>Type: </strong>Eyelashes<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dlux Professional Mink Lashes are precision manufactured from sterilized PBT materials from Korea and have a deep, solid black finish.  Through precision manufacturing, our lashes retain their curl beautifully!</p>
+<h4>All Dlux Pro lashes are triple treated to retain their beautiful curl.  All lashes go through a 6 point inspection process to ensure perfect length, thickness and curl.</h4>
+<p>Number of rows in a box: 12</p>
+<strong>Thickness:</strong>                       0.07 mm, 0.1 mm, 015 mm, 0.18 mm, 0.20 mm and 0.25 mm <br><strong>Curl Type:</strong>                        B, C, CC, D, LB, LC and LD <br><strong>Individual lengths:  </strong>     8 ~ 16 mm<br><strong>Mixed Lengths:   </strong> 8mm-14mm</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eye</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>eyelashes</s:tag>
+    <s:tag>faux</s:tag>
+    <s:tag>faux mink</s:tag>
+    <s:tag>l curl</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>ld</s:tag>
+    <s:tag>mink</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.07mm / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD07-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.07mm / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD07-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.07mm / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD07-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.07mm / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD07-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.07mm / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD07-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.07mm / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD07-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.07mm / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD07-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.07mm / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD07-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.07mm / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD07-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.07mm / Mixed Tray</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD07-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.10mm / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD10-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.10mm / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD10-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.10mm / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD10-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.10mm / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD10-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.10mm / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD10-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.10mm / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD10-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.10mm / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD10-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.10mm / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD10-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.10mm / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD10-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.10mm / Mixed Tray</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD10-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.15mm / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD15-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.15mm / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD15-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.15mm / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD15-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.15mm / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD15-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.15mm / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD15-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.15mm / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD15-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.15mm / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD15-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.15mm / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD15-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.15mm / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD15-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.15mm / Mixed Tray</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD15-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.18mm / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD18-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.18mm / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD18-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.18mm / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD18-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.18mm / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD18-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.18mm / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD18-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.18mm / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD18-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.18mm / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD18-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.18mm / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD18-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.18mm / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD18-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.18mm / Mixed Tray</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD18-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.2mm / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD20-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.2mm / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD20-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.2mm / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD20-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.2mm / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD20-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.2mm / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD20-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.2mm / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD20-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.2mm / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD20-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.2mm / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD20-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.2mm / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD20-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391480259</id>
+      <title>LD / 0.2mm / Mixed Tray</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LD20-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/5391386051</id>
+    <published>2016-02-20T07:55:00-07:00</published>
+    <updated>2016-02-20T07:55:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/dlux-pro-premium-mink-individual-length-lc-curl"/>
+    <title>CLEARANCE Dlux Premium Mink - LC Curl</title>
+    <s:type>Eyelashes</s:type>
+    <s:vendor>Dlux</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/minkLCcurl.jpg?v=1530556523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dlux<br>
+        <strong>Type: </strong>Eyelashes<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dlux Professional Mink Lashes are precision manufactured from sterilized PBT materials from Korea and have a deep, solid black finish.  Through precision manufacturing, our lashes retain their curl beautifully!</p>
+<h4>All Dlux Pro lashes are triple treated to retain their beautiful curl.  All lashes go through a 6 point inspection process to ensure perfect length, thickness and curl.</h4>
+<p>Number of rows in a box: 12</p>
+<strong>Thickness:    </strong>                   0.07 mm, 0.1 mm, 015 mm, 0.18 mm, 0.20 mm and 0.25 mm <br><strong>Curl Type:  </strong>                      B, C, CC, D, LB, LC and LD <br><strong>Individual lengths:  </strong>     8 ~ 16 mm<br><strong>Mixed Lengths:</strong> 8mm-14mm</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eyelash</s:tag>
+    <s:tag>eyelashes</s:tag>
+    <s:tag>faux</s:tag>
+    <s:tag>faux mink</s:tag>
+    <s:tag>l curl</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>lashes</s:tag>
+    <s:tag>lc</s:tag>
+    <s:tag>mink</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.07mm / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC07-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.07mm / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC07-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.07mm / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC07-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.07mm / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC07-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.07mm / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC07-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.07mm / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC07-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.07mm / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC07-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.07mm / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC07-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.07mm / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC07-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.07mm / Mixed Tray</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC07-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.1mm / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC10-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.1mm / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC10-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.1mm / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC10-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.1mm / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC10-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.1mm / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC10-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.1mm / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC10-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.1mm / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC10-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.1mm / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC10-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.1mm / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC10-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.1mm / Mixed Tray</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC10-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.15mm / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC15-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.15mm / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC15-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.15mm / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC15-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.15mm / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC15-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.15mm / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC15-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.15mm / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC15-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.15mm / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC15-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.15mm / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC15-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.15mm / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC15-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.15mm / Mixed Tray</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC15-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.18mm / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC18-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.18mm / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC18-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.18mm / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC18-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.18mm / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC18-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.18mm / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC18-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.18mm / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC18-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.18mm / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC18-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.18mm / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC18-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.18mm / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC18-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.18mm / Mixed Tray</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC18-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.2mm / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC20-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.2mm / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC20-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.2mm / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC20-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.2mm / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC20-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.2mm / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC20-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.2mm / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC20-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.2mm / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC20-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.2mm / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC20-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.2mm / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC20-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391386051</id>
+      <title>LC / 0.20mm / Mixed Tray</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LC20-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/5391384195</id>
+    <published>2016-02-20T07:55:00-07:00</published>
+    <updated>2016-02-20T07:55:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/dlux-pro-premium-mink-individual-length-12-rows"/>
+    <title>CLEARANCE Dlux Premium Mink - LB Curl</title>
+    <s:type>Eyelashes</s:type>
+    <s:vendor>Dlux</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/minkLBcurl.jpg?v=1530556503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dlux<br>
+        <strong>Type: </strong>Eyelashes<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dlux Professional Mink Lashes are precision manufactured from sterilized PBT materials from Korea and have a deep, solid black finish.  Through precision manufacturing, our lashes retain their curl beautifully!</p>
+<h4>All Dlux Pro lashes are triple treated to retain their beautiful curl.  All lashes go through a 6 point inspection process to ensure perfect length, thickness and curl.</h4>
+<p>Number of rows in a box: 12</p>
+<strong>Thickness:  </strong>                     0.07 mm, 0.1 mm, 015 mm, 0.18 mm, 0.20 mm and 0.25 mm <br><strong>Curl Type:</strong>                        B, C, CC, D, LB, LC and LD <br><strong>Individual lengths:</strong>       8 ~ 16 mm<br><strong>Mixed Lengths:</strong> 8mm-14mm</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eyelash</s:tag>
+    <s:tag>eyelashes</s:tag>
+    <s:tag>faux</s:tag>
+    <s:tag>faux mink</s:tag>
+    <s:tag>l curl</s:tag>
+    <s:tag>lashes</s:tag>
+    <s:tag>lb</s:tag>
+    <s:tag>mink</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.07mm / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB10-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.07mm / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB10-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.07mm / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB10-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.07mm / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB10-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.07mm / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB10-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.07mm / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB10-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.07mm / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB10-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.07mm / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB10-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.07mm / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB10-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.07mm / Mixed Tray</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB07-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.10mm / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB10-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.10mm / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB10-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.10mm / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB10-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.10mm / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB10-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.10mm / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB10-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.10mm / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB10-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.10mm / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB10-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.10mm / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB10-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.10mm / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB10-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.10mm / Mixed Tray</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB10-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.15mm / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB15-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.15mm / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB15-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.15mm / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB15-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.15mm / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB15-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.15mm / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB15-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.15mm / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB15-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.15mm / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB15-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.15mm / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB15-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.15mm / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB15-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.15mm / Mixed Tray</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB15-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.18mm / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB18-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.18mm / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB18-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.18mm / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB18-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.18mm / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB18-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.18mm / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB18-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.18mm / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB18-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.18mm / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB18-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.18mm / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB18-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.18mm / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB18-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.18mm / Mixed Tray</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB18-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.2mm / 8mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB20-08</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.2mm / 9mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB20-09</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.2mm / 10mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB20-10</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.2mm / 11mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB20-11</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.2mm / 12mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB20-12</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.2mm / 13mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB20-13</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.2mm / 14mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB20-14</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.2mm / 15mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB20-15</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.2mm / 16mm</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB20-16</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5391384195</id>
+      <title>LB / 0.2mm / Mixed Tray</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>MINK-LB20-MX</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+</feed>

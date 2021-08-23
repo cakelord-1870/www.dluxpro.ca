@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.dluxpro.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.dluxpro.ca/collections/random-lashes-1.atom"/>
+  <title>Lash for Less</title>
+  <updated>2020-11-08T15:33:32-07:00</updated>
+  <author>
+    <name>Lash for Less</name>
+  </author>
+  <entry>
+    <id>https://www.dluxpro.ca/products/4952482283606</id>
+    <published>2020-11-08T15:33:32-07:00</published>
+    <updated>2020-11-08T15:33:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/copy-of-dlux-random-lashes-3-lengths-blended-in-a-single-row-0-07mm"/>
+    <title>CLEARANCE Dlux Random Lashes (3-lengths blended in a single row) 0.07mm</title>
+    <s:type>Eyelashes</s:type>
+    <s:vendor>Dlux</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/Random_8235c4ad-0d14-4d33-8245-12ee6c7befd1.jpg?v=1604874509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dlux<br>
+        <strong>Type: </strong>Eyelashes<br>
+        <strong>Price: </strong>
+            15.95 - 16.95
+            <a href="https://www.dluxpro.ca/products/copy-of-dlux-random-lashes-3-lengths-blended-in-a-single-row-0-07mm">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dlux Random Lashes are a blend of 3 lengths across the lash strip giving a perfect textured natural look. Time saving for Volume Lashing!  Save yourself effort and time by grabbing 3 lengths in each fan!</p>
+<h4>All Dlux Pro lashes are triple treated to retain their beautiful curl.  All lashes go through a 6 point inspection process to ensure perfect length, thickness and curl.</h4>
+<p>Thickness: 0.07 mm<br>Curl Type: C &amp; D</p>
+<p><strong>4 mixed lengths: </strong></p>
+<p>6-7-8 mm (blended)<br>9-10-11 mm (blended)<br>11-12-13 mm (blended)<br>13-14-15 mm (blended)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11-12-13</s:tag>
+    <s:tag>13-14-15</s:tag>
+    <s:tag>6-7-8</s:tag>
+    <s:tag>9-10-11</s:tag>
+    <s:tag>eyelashes</s:tag>
+    <s:tag>mixed</s:tag>
+    <s:tag>random</s:tag>
+    <s:tag>silk</s:tag>
+    <s:tag>volume</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4952482283606</id>
+      <title>C / 0.07mm / 6-7-8mm</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>34</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4952482283606</id>
+      <title>C / 0.07mm / 9-10-11mm</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>34</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4952482283606</id>
+      <title>C / 0.07mm / 11-12-13mm</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>34</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4952482283606</id>
+      <title>C / 0.07mm / 13-14-15mm</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>34</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4952482283606</id>
+      <title>D / 0.07mm / 6-7-8mm</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>34</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4952482283606</id>
+      <title>D / 0.07mm / 9-10-11mm</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>34</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4952482283606</id>
+      <title>D / 0.07mm / 11-12-13mm</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>34</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4952482283606</id>
+      <title>D / 0.07mm / 13-14-15mm</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>34</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4952482283606</id>
+      <title>C / 0.05 / 11-12-13</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>34</s:grams>
+    </s:variant>
+  </entry>
+</feed>

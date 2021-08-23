@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.dluxpro.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.dluxpro.ca/collections/vivid-volume-lashes.atom"/>
+  <title>Lash for Less</title>
+  <updated>2016-11-16T13:35:00-07:00</updated>
+  <author>
+    <name>Lash for Less</name>
+  </author>
+  <entry>
+    <id>https://www.dluxpro.ca/products/9048586382</id>
+    <published>2016-11-16T13:35:00-07:00</published>
+    <updated>2016-11-16T13:35:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/dlux-professional-volume-vivid-lashes-mixed-lenght"/>
+    <title>Dlux Professional Volume Vivid Lashes</title>
+    <s:type>Eyelashes</s:type>
+    <s:vendor>Dlux</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/vivid.jpg?v=1530559441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dlux<br>
+        <strong>Type: </strong>Eyelashes<br>
+        <strong>Price: </strong>
+            27.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="p2" style="margin: 0cm; margin-bottom: .0001pt; background: white;"><span style="color: #ff0000;"> Dlux Professional has discontinued 0.05mm and replaced them with 0.06mm.</span></h2>
+<p> </p>
+<span class="s1"><span style="font-size: 17.0pt; font-family: '.SFUIText',serif; color: #454545;">DLux professional has just recently released the newest technology to volume lashing.</span></span><span class="apple-converted-space"><span style="font-size: 17.0pt; font-family: '.SFUIText',serif; color: #454545;">  </span></span><span class="s1"><span style="font-size: 17.0pt; font-family: '.SFUIText',serif; color: #454545;">These lashes give you a darker and more dramatic look than standard volume lashes.</span></span><span class="apple-converted-space"><span style="font-size: 17.0pt; font-family: '.SFUIText',serif; color: #454545;">  </span></span><span class="s1"><span style="font-size: 17.0pt; font-family: '.SFUIText',serif; color: #454545;">This look is achieved because the tip is not as tapered, thus giving your clients a more dramatic full look.</span></span><span class="apple-converted-space"><span style="font-size: 17.0pt; font-family: '.SFUIText',serif; color: #454545;">  </span></span><span class="s1"><span style="font-size: 17.0pt; font-family: '.SFUIText',serif; color: #454545;">The perfect lash for when you want to add that extra little bit of oomph to your clients look without having to increase the dimension of your lash fans.</span></span><span class="apple-converted-space"><span style="font-size: 17.0pt; font-family: '.SFUIText',serif; color: #454545;">  </span></span><span class="s1"><span style="font-size: 17.0pt; font-family: '.SFUIText',serif; color: #454545;">This means less weight on the natural lash and a full dark look. Vivid lashes boast our strongest curl tension and a shiny finish.</span></span><span class="apple-converted-space"><span style="font-size: 17.0pt; font-family: '.SFUIText',serif; color: #454545;">  </span></span><span class="s1"><span style="font-size: 17.0pt; font-family: '.SFUIText',serif; color: #454545;">These lashes will be available in 0.06 and 0.07mm with C-, D- and DD- curl.</span></span>
+<p> </p>
+<p> </p>
+<p class="p2" style="margin: 0cm; margin-bottom: .0001pt; background: white;"> </p>
+<h4>All Dlux Pro lashes are triple treated to retain their beautiful curl.  All lashes go through a 6 point inspection process to ensure perfect length, thickness and curl.</h4>
+<p>Number of rows in a box: 16</p>
+<p>Thickness: 0.06mm and 0.07mm</p>
+<p>Curl Type: C, D &amp; DD</p>
+<p>Mixed Lenght:   7mm to 14mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eyelashes</s:tag>
+    <s:tag>silk</s:tag>
+    <s:tag>vivid</s:tag>
+    <s:tag>volume</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>C / 0.06mm / 8mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-C.06-08</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>C / 0.06mm / 9mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-C.06-09</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>C / 0.06mm / 10mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-C.06-10</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>C / 0.06mm / 11mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-C.06-11</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>C / 0.06mm / 12mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-C.06-12</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>C / 0.06mm / 13mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-C.06-13</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>C / 0.06mm / 14mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-C.06-14</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>C / 0.06mm / 15mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-C.06-15</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>C / 0.06mm / 16mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-C.06-16</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>C / 0.06mm / MIX</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-C.06-MX</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>C / 0.07mm / 8mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-C.07-08</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>C / 0.07mm / 9mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-C.07-09</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>C / 0.07mm / 10mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-C.07-10</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>C / 0.07mm / 11mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-C.07-11</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>C / 0.07mm / 12mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-C.07-12</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>C / 0.07mm / 13mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-C.07-13</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>C / 0.07mm / 14mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-C.07-14</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>C / 0.07mm / 15mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-C.07-15</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>C / 0.07mm / 16mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-C.07-16</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>C / 0.07mm / MIX</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-C.07-MX</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>D / 0.06mm / 8mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-D.06-08</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>D / 0.06mm / 9mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-D.06-09</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>D / 0.06mm / 10mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-D.06-10</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>D / 0.06mm / 11mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-D.06-11</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>D / 0.06mm / 12mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-D.06-12</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>D / 0.06mm / 13mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-D.06-13</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>D / 0.06mm / 14mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-D.06-14</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>D / 0.06mm / 15mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-D.06-15</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>D / 0.06mm / 16mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-D.06-16</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>D / 0.06mm / MIX</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-D.06-MX</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>D / 0.07mm / 8mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-D.07-08</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>D / 0.07mm / 9mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-D.07-09</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>D / 0.07mm / 10mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-D.07-10</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>D / 0.07mm / 11mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-D.07-11</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>D / 0.07mm / 12mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-D.07-12</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>D / 0.07mm / 13mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-D.07-13</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>D / 0.07mm / 14mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-D.07-14</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>D / 0.07mm / 15mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-D.07-15</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>D / 0.07mm / 16mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-D.07-16</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>D / 0.07mm / MIX</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-D.07-MX</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>DD / 0.06mm / 8mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVIDDD.06-08</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>DD / 0.06mm / 9mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVIDDD.06-09</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>DD / 0.06mm / 10mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVIDDD.06-10</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>DD / 0.06mm / 11mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVIDDD.06-11</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>DD / 0.06mm / 12mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVIDDD.06-12</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>DD / 0.06mm / 13mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVIDDD.06-13</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>DD / 0.06mm / 14mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVIDDD.06-14</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>DD / 0.06mm / 15mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVIDDD.06-15</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>DD / 0.06mm / 16mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVIDDD.06-16</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>DD / 0.06mm / MIX</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVIDDD.06-MX</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>DD / 0.07mm / 8mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVIDDD.07-08</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>DD / 0.07mm / 9mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVIDDD.07-09</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>DD / 0.07mm / 10mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVIDDD.07-10</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>DD / 0.07mm / 11mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVIDDD.07-11</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>DD / 0.07mm / 12mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVIDDD.07-12</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>DD / 0.07mm / 13mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVIDDD.07-13</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>DD / 0.07mm / 14mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVIDDD.07-14</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>DD / 0.07mm / 15mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVIDDD.07-15</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>DD / 0.07mm / 16mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVIDDD.07-16</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>DD / 0.07mm / MIX</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVIDDD.07-MX</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>C / 0.06mm / 7mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-C.06-07</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>D / 0.06mm / 7mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-D.06-07</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>C / 0.07mm / 7mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-C.07-07</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>D / 0.07mm / 7mm</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>LASH-VIVID-D.07-07</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9048586382</id>
+      <title>C / .05 / 15</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+  </entry>
+</feed>

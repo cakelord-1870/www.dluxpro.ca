@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.dluxpro.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.dluxpro.ca/collections/eye-gel-pad.atom"/>
+  <title>Lash for Less</title>
+  <updated>2019-01-30T23:30:39-07:00</updated>
+  <author>
+    <name>Lash for Less</name>
+  </author>
+  <entry>
+    <id>https://www.dluxpro.ca/products/1952743718998</id>
+    <published>2019-01-30T23:30:39-07:00</published>
+    <updated>2019-01-30T23:30:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/dlux-pro-hydrogel-lint-free-eye-pad-20-pair-pack"/>
+    <title>Dlux Pro Hydrogel Lint Free Eye Pad (20 pair pack)</title>
+    <s:type>Application Products &amp; Tools</s:type>
+    <s:vendor>Dlux</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/3_6_5.jpg?v=1548916966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dlux<br>
+        <strong>Type: </strong>Application Products &amp; Tools<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span>Dlux Pro Hydro Gel Lint Free Eye Pads (20 pair pack) Best Selling item! New and improved shape! </span></h3>
+<p><span>Thickness: medium thickness</span> <br>Shape: <strong>Crescent Shape (Type C) </strong><br>20 pairs/pack</p>
+<p><br><span>Dlux Pro Hydrogel Lint Free Eye Pads </span>are used to isolate lower lashes during the lash extension procedure.  They do not shift around once applied to the skin.  These patches contain Hydrogel which can hydrate the sensitive skin below the eyes.  </p>
+<h5>**Eye gel pads are for clients who have no sensitivity/ allergy to latex.  Use 3M tape for clients who are sensitive.</h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eye</s:tag>
+    <s:tag>gel pad</s:tag>
+    <s:tag>hydro</s:tag>
+    <s:tag>hydrogel</s:tag>
+    <s:tag>pad</s:tag>
+    <s:tag>patch</s:tag>
+    <s:tag>patches</s:tag>
+    <s:tag>patchs</s:tag>
+    <s:tag>under eye</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/1952743718998</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku>dips-eye-hydrogel-pad-lintfree-EYP20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/5405863363</id>
+    <published>2016-03-07T08:35:00-07:00</published>
+    <updated>2016-03-07T08:35:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/dlux-pro-collagen-lint-free-eye-gel-pad-type-2"/>
+    <title>Dlux Collagen Eye Gel Pad - Type C</title>
+    <s:type>Eye Gel Pad</s:type>
+    <s:vendor>Dlux</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/padc.jpg?v=1494799801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dlux<br>
+        <strong>Type: </strong>Eye Gel Pad<br>
+        <strong>Price: </strong>
+            13.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style><!--
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+--></style>
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/-TQPiGhdojA" frameborder="0" allowfullscreen=""></iframe></div>
+<h3>Dlux Pro Collagen Lint Free Eye Gel Pad (Type C) for Eyelash Extensions</h3>
+<p>Thickness:  Medium <br>Shape: Crescent shape <br>I pair/pack</p>
+<p><br>Dlux Pro Collagen Eye Gel Pads are used to isolate lower lashes during the lash extension procedure. They do not shift around once applied to the skin.  These pads contain collagen which can brighten and hydrate the sensitive skin around the eyes.</p>
+<h5>**Eye gel pads are for clients who have no sensitivity/ allergy to latex or collagen.  Use 3M tape for clients who are sensitive.</h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>collagen</s:tag>
+    <s:tag>collagene</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>gel pad</s:tag>
+    <s:tag>pad</s:tag>
+    <s:tag>patch</s:tag>
+    <s:tag>patchs</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5405863363</id>
+      <title>10</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>dips-eye-gel-pad-C</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/5405905347</id>
+    <published>2016-02-21T10:43:00-07:00</published>
+    <updated>2016-02-21T10:43:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/dlux-pro-collagen-lint-free-eye-gel-pad-type-3"/>
+    <title>Dlux Collagen Eye Gel Pad - Type B</title>
+    <s:type>Eye Gel Pad</s:type>
+    <s:vendor>Dlux</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/pada.jpg?v=1494799763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dlux<br>
+        <strong>Type: </strong>Eye Gel Pad<br>
+        <strong>Price: </strong>
+            13.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style><!--
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+--></style>
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/-TQPiGhdojA" frameborder="0" allowfullscreen=""></iframe></div>
+<h3>Dlux Pro Collagen Lint Free Eye Gel Pad (Type B) for Eyelash Extensions</h3>
+<p>Thickness: Medium <br>Shape:  Tear shape <br>I pair/pack</p>
+<p> Dlux Pro Collagen Eye Gel Patches are used to isolate lower lashes during the lash extension procedure. They do not shift around once applied to the skin.  These patches contain collagen which can brighten and hydrate the sensitive skin beneath the eyes.</p>
+<h5>**Eye gel pads are for clients who have no sensitivity/ allergy to latex or collagen.  Use 3M tape for clients who are sensitive. **</h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>collagen</s:tag>
+    <s:tag>collagene</s:tag>
+    <s:tag>eye</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>gel pad</s:tag>
+    <s:tag>pad</s:tag>
+    <s:tag>patch</s:tag>
+    <s:tag>patchs</s:tag>
+    <s:tag>yeux</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5405905347</id>
+      <title>10</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>dips-eye-gel-pad-B</s:sku>
+      <s:grams>46</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/5405889155</id>
+    <published>2016-02-21T10:43:00-07:00</published>
+    <updated>2016-02-21T10:43:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/dlux-pro-collagen-lint-free-eye-gel-pad-10-pair-pack"/>
+    <title>Dlux Pro Hydrogel Lint Free Eye Pad (10 pair pack)</title>
+    <s:type>Eye Gel Pad</s:type>
+    <s:vendor>Dlux</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/4_4_4.jpg?v=1534471033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dlux<br>
+        <strong>Type: </strong>Eye Gel Pad<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="embed-container"><iframe src="https://www.youtube.com/embed/-TQPiGhdojA" frameborder="0" allowfullscreen=""></iframe></div>
+<h3><span style="line-height: 1.4;">Dlux Pro Hydro Gel Lint Free Eye Pads (10 pair pack) Best Selling item! New and improved shape! </span></h3>
+<p><span style="line-height: 1.4;">Thickness: medium thickness</span> <br>Shape: <strong>Crescent Shape (Type C) </strong><br>10 pairs/pack</p>
+<p><br><span>Dlux Pro Hydrogel Lint Free Eye Pads </span>are used to isolate lower lashes during the lash extension procedure.  They do not shift around once applied to the skin.  These patches contain Hydrogel which can hydrate the sensitive skin below the eyes.  </p>
+<h5>**Eye gel pads are for clients who have no sensitivity/ allergy to latex.  Use 3M tape for clients who are sensitive.</h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5405889155</id>
+      <title>1</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku>dips-eye-hydrogel-pad-lintfree</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/5405839043</id>
+    <published>2016-02-21T10:43:00-07:00</published>
+    <updated>2016-02-21T10:43:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/dlux-pro-collagen-lint-free-eye-gel-pad-type-1"/>
+    <title>Dlux Pro Collagen Eye Gel Pad - Type A</title>
+    <s:type>Eye Gel Pad</s:type>
+    <s:vendor>Dlux</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/pada_ede454cb-0d57-494f-be6a-2d25ce59f794.jpg?v=1494799829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dlux<br>
+        <strong>Type: </strong>Eye Gel Pad<br>
+        <strong>Price: </strong>
+            13.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style><!--
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+--></style>
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/-TQPiGhdojA" frameborder="0" allowfullscreen=""></iframe></div>
+<h3>Dlux Pro Collagen Eye Gel Pad (Type A)  for Eyelash Extensions</h3>
+<p>Thickness: Thin<br>Shape:  Tear shape <br>I pair/pack <br>Dlux Pro Collagen Eye Gel Patches are used to isolate lower lashes during the lash extension procedure. They do not shift around once applied to the skin. These patches contain collagen which can brighten and hydrate the sensitive skin beneath the eyes.</p>
+<h5>**Eye gel pads are for clients who have no sensitivity/ allergy to latex or collagen.  Use 3M tape for clients who are sensitive.</h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>collagen</s:tag>
+    <s:tag>collagene</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>gel pad</s:tag>
+    <s:tag>pad</s:tag>
+    <s:tag>patch</s:tag>
+    <s:tag>patchs</s:tag>
+    <s:tag>type a</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/5405839043</id>
+      <title>10</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>dips-eye-gel-pad-A</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+  </entry>
+</feed>

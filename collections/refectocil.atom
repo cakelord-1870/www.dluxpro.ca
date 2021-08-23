@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.dluxpro.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.dluxpro.ca/collections/refectocil.atom"/>
+  <title>Lash for Less</title>
+  <updated>2017-12-13T14:58:47-07:00</updated>
+  <author>
+    <name>Lash for Less</name>
+  </author>
+  <entry>
+    <id>https://www.dluxpro.ca/products/243771998232</id>
+    <published>2017-12-13T14:58:47-07:00</published>
+    <updated>2017-12-13T14:58:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/refectocil-eye-protection-papers-extra"/>
+    <title>RefectoCil Eye Protection Papers EXTRA</title>
+    <s:type>Refectocil</s:type>
+    <s:vendor>Refectocil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/refectocil-eye-protection-papers-extra.jpg?v=1513205695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Refectocil<br>
+        <strong>Type: </strong>Refectocil<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="row column product__description">Extra soft and with special, impenetrable coating RefectoCil Eye protection papers Extra prevent the clients eyelids from unwanted staining. They are easy to handle, fit perfectly and provide optimum skin protection thanks to their special coating.</div>
+<div class="row column product__description"></div>
+<div class="row column product__description">USAGE:</div>
+<div class="row product__tabs">
+<div class="column tab-box">
+<div class="tabs-content bg--light" data-tabs-content="product-tabs">
+<div class="tabs-panel is-active product__usage" id="usage" role="tabpanel" aria-hidden="false" aria-labelledby="usage-label">
+<div class="media-description--wrapper">
+<div class="clearfix">
+<div class="column textbox bg--light">
+<p>Apply Refectocil Skin Protection Cream &amp; Eye Mask<span> </span>on the uncoated underside of RefectoCil Eye protection paper EXTRA and ask your client to look upwards. Now softly apply the paper underneath the lower eyelashes right to the edge of the client’s eyelids.</p>
+<p> </p>
+<p><strong>THIS ITEM IS NOT ELIGIBLE FOR DISCOUNT CODES</strong></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>paper</s:tag>
+    <s:tag>refectocil</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/243771998232</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>REFECTOCIL-EYE-PROTECT-PAPER-XTR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/10693783310</id>
+    <published>2017-08-14T14:45:19-06:00</published>
+    <updated>2017-08-14T14:45:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/refectocil-oxidant-3-10-vol-developer-liquid-1"/>
+    <title>RefectoCil Oxidant 3% (10 Vol) Developer Liquid</title>
+    <s:type>Refectocil</s:type>
+    <s:vendor>Refectocil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/oxidant_liquid.png?v=1502743519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Refectocil<br>
+        <strong>Type: </strong>Refectocil<br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The intensive developer ensures brilliant colour results and can be used without concern in the sensitive eye-area. Sufficient for about 200 applications.</span></p>
+<p> </p>
+<p><span><strong>THIS ITEM IS NOT ELIGIBLE FOR DISCOUNT CODES</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10vol</s:tag>
+    <s:tag>3%</s:tag>
+    <s:tag>liquid</s:tag>
+    <s:tag>liquide</s:tag>
+    <s:tag>oxidant</s:tag>
+    <s:tag>refectocil</s:tag>
+    <s:tag>teinture</s:tag>
+    <s:tag>tint</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10693783310</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku>REFECTOCIL-DEVELOPER-LIQUID</s:sku>
+      <s:grams>126</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/10693675534</id>
+    <published>2017-05-16T11:30:50-06:00</published>
+    <updated>2017-05-16T11:30:50-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/refectocil-eye-protection-papers"/>
+    <title>RefectoCil Eye Protection Papers</title>
+    <s:type>Refectocil</s:type>
+    <s:vendor>Refectocil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/eye_paper.png?v=1494959272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Refectocil<br>
+        <strong>Type: </strong>Refectocil<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>RefectoCil Eye Protection Papers protect the lower eyelids from unwanted staining.</span></p>
+<p><span>Apply <a class="link--product" href="http://refectocil.at/int/product/skin-protection-cream-and-eye-mask/">RefectoCil Skin Protection Cream &amp; Eye Mask</a> on one side of RefectoCil Eye protection paper and ask your client to look upwards. Now softly apply the paper underneath the lower eyelashes right to the edge of the client’s eyelids.</span></p>
+<p> </p>
+<p><span><strong>THIS ITEM IS NOT ELIGIBLE FOR DISCOUNT CODES</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eye</s:tag>
+    <s:tag>paper</s:tag>
+    <s:tag>papers</s:tag>
+    <s:tag>papier</s:tag>
+    <s:tag>protection</s:tag>
+    <s:tag>protector</s:tag>
+    <s:tag>refectocil</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10693675534</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>REFECTOCIL-EYE-PROTECT-PAPER</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/10693647886</id>
+    <published>2017-05-16T11:26:05-06:00</published>
+    <updated>2017-05-16T11:26:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/refectocil-micellar-eye-make-up-remover-non-oily"/>
+    <title>RefectoCil Micellar Eye Make-up Remover non-oily</title>
+    <s:type>Refectocil</s:type>
+    <s:vendor>Refectocil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/micellar.png?v=1494958964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Refectocil<br>
+        <strong>Type: </strong>Refectocil<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span>RefectoCil Micellar Eye Make-up Remover non-oily</span></h3>
+<p><span>Strengthens lashes and attracts eye make-up thanks to micellar technology "magnetically".  It cleans thoroughly – no rubbing! For an ideal tinting result and long-lasting duration use RefectoCil Micellar Eye Make-up Remover before styling the eye-area. Oil-free formula.</span></p>
+<p><span>Tip:<br>Use our lash strengthening Micellar Eye Make-up Remover also on clients not wearing any make-up to remove skin lipids and ensure an optimum tinting result.</span></p>
+<p> </p>
+<p><strong>CLEARANCE PRICING - FINAL SALE - NO RETURN</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cleanser</s:tag>
+    <s:tag>démaquillant</s:tag>
+    <s:tag>eau</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>micellaire</s:tag>
+    <s:tag>micellar</s:tag>
+    <s:tag>nettoyant</s:tag>
+    <s:tag>oil free</s:tag>
+    <s:tag>refectocil</s:tag>
+    <s:tag>remover</s:tag>
+    <s:tag>water</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/10693647886</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>REFECTOCIL-MAKEUP-REMOVER</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/9284439310</id>
+    <published>2017-01-05T20:25:00-07:00</published>
+    <updated>2017-01-05T20:25:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/refectocil-tint-remover"/>
+    <title>RefectoCil Tint Remover</title>
+    <s:type>Refectocil</s:type>
+    <s:vendor>Refectocil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/tint_remover.png?v=1494956841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Refectocil<br>
+        <strong>Type: </strong>Refectocil<br>
+        <strong>Price: </strong>
+            19.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 itemprop="name">TINT REMOVER</h1>
+<hr>
+<p>The soft colour stain remover for the skin!</p>
+<hr>
+<div id="product_description" class="productcontent">
+<p>RefectoCil Tint Remover is a colour stain remover and was developed to quickly and gently remove excess tint spots from the skin, produced when tinting eyelashes and eyebrows.</p>
+<p>Content: 150 ml</p>
+<p> </p>
+<p><strong>CLEARANCE PRICING - FINAL SALE - NO RETURN</strong></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dissolvant</s:tag>
+    <s:tag>refectocil</s:tag>
+    <s:tag>remover</s:tag>
+    <s:tag>teinture</s:tag>
+    <s:tag>tint</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9284439310</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.97</s:price>
+      <s:sku>REFECTOCIL-TINT-REMOVER</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/9284425742</id>
+    <published>2017-01-05T20:25:00-07:00</published>
+    <updated>2017-01-05T20:25:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/refectocil-oxidant-3-10-vol-developer-cream"/>
+    <title>RefectoCil Oxidant 3% (10 Vol) Developer Cream</title>
+    <s:type>Refectocil</s:type>
+    <s:vendor>Refectocil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/oxidantcreme.png?v=1494955762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Refectocil<br>
+        <strong>Type: </strong>Refectocil<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 itemprop="name">OXIDANT 3% CREAM</h1>
+<hr>
+<p>Stabilised cream developer</p>
+<hr>
+<div id="product_description" class="productcontent">
+<p>In addition to the developer RefectoCil Oxidant 3% liquid the new RefectoCil Oxidant 3% cream is now available, a stabilised, cream-based developer for RefectoCil eyelash and eyebrow tints.<br>Due to its creamy consistency RefectoCil Oxidant 3% cream can conveniently be mixed with the RefectoCil tints to a homogenous paste which can be applied easily to the lashes and eyebrows. The convenient dropping device allows the drops to be dispensed precisely and economically by pressing softly on the plastic body of the bottle. Also, the dispenser guarantees that no impurities can get into the bottle.</p>
+<p><strong>Important note:</strong> Only the use of RefectoCil Oxidant guarantees the widely known perfect tinting results with RefectoCil tints. Therefore use RefectoCil Eyelash and eyebrow tints always with RefectoCil Oxidant 3% liquid or cream.</p>
+<p>Content: 100ml<br>Sufficient for approximately 200 applications.<br>Please read the instructions for use!</p>
+<p><strong>Lashes: for professional use only!</strong></p>
+<p> </p>
+<p><strong>THIS ITEM IS NOT ELIGIBLE FOR DISCOUNT CODES</strong></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10vol</s:tag>
+    <s:tag>3%</s:tag>
+    <s:tag>cream</s:tag>
+    <s:tag>creme</s:tag>
+    <s:tag>oxidant</s:tag>
+    <s:tag>refectocil</s:tag>
+    <s:tag>teinture</s:tag>
+    <s:tag>tint</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9284425742</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>REFECTOCIL-DEVELOPER-CREAM</s:sku>
+      <s:grams>128</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/9284375822</id>
+    <published>2017-01-05T20:25:00-07:00</published>
+    <updated>2017-01-05T20:25:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/refectocil-cosmetic-brush-soft"/>
+    <title>RefectoCil Cosmetic Brush (Soft)</title>
+    <s:type>Refectocil</s:type>
+    <s:vendor>Refectocil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/Kosmetikpinsel_weich-200x220.png?v=1482561030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Refectocil<br>
+        <strong>Type: </strong>Refectocil<br>
+        <strong>Price: </strong>
+            18.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 itemprop="name">COSMETIC BRUSH (SOFT)</h1>
+<hr>
+<p>To apply the colour paste professionally</p>
+<hr>
+<div class="productcontent" id="product_description">
+<p>This high quality cosmetic brush is particularly soft and gentle to the skin. It enables a quick, easy and precise application of the paste to lashes and brows and makes the treatment even more simple.<br>The flat, straight and particularly elastic bristle of synthetic Taklon enables an exceptionally clean and precise working when tinting eyelashes and eyebrows. Whether sparse brows shall be enhanced, a fine lid line shall be conjured up, or if more volume shall be given to the lashes, with this cosmetic brush also finest detail work becomes possible. The synthetic bristle has an exceptionally long life time, brush and bristle can easily be cleansed with water.</p>
+<p>Content: 5 pcs., single packed in plastic sleeves</p>
+<p><strong>THIS ITEM IS NOT ELIGIBLE FOR DISCOUNT CODES</strong></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brosse</s:tag>
+    <s:tag>brush</s:tag>
+    <s:tag>pinceau</s:tag>
+    <s:tag>refectocil</s:tag>
+    <s:tag>soft</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9284375822</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.85</s:price>
+      <s:sku>REFECTOCIL-BRUSH-SOFT</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/9284303310</id>
+    <published>2017-01-05T20:25:00-07:00</published>
+    <updated>2017-01-05T20:25:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/refectocil-siliconepads"/>
+    <title>RefectoCil SiliconePads</title>
+    <s:type>Refectocil</s:type>
+    <s:vendor>Refectocil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/Silicone_Pads-200x220.png?v=1482605223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Refectocil<br>
+        <strong>Type: </strong>Refectocil<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 itemprop="name">SILICONEPADS</h1>
+<hr>
+<p>The easy way of eyelash tinting! Fast, simple, safe.</p>
+<hr>
+<div id="product_description" class="productcontent">
+<p>The innovative RefectoCil SiliconePads make eyelash tinting as simple as never before! They facilitate eyelash tinting considerably and increase the profitability in your salon, and the treatment becomes more comfortable for the clients.</p>
+<p>The RefectoCil SiliconePads are self-adhesive and anti-slip and the soft high-tech silicone perfectly adjusts to every eye form. The pads are 100% impermeable and can be used up to 100 times. After each application they have to be cleansed with water or liposoluble washing-up liquid, after cleansing they are immediately ready for reuse.</p>
+<p><strong>Advantages of the new SiliconePads</strong> :<br>• Protects the skin from tint<br>• Self-adhesive &amp; anti-slip<br>• Fits every eye form<br>• Can be reused up to 100 times<br>• Extra soft, skin-friendly high-tech silicon with a special surface structure<br>• Dermatologically and microbiological tested</p>
+<p>Content: 2 SiliconePads per unit, 25 pcs. per box</p>
+<p> </p>
+<p><strong>THIS ITEM IS NOT ELIGIBLE FOR DISCOUNT CODES</strong></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>pad</s:tag>
+    <s:tag>refectocil</s:tag>
+    <s:tag>silicone</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9284303310</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>REFECTOCIL-SILICONEPADS</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/9284263182</id>
+    <published>2017-01-05T20:25:00-07:00</published>
+    <updated>2017-01-05T20:25:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/refectocil-professional-tinting-starter-kit-basic-colours"/>
+    <title>RefectoCil Professional Tinting Starter Kit - Basic Colors</title>
+    <s:type>Refectocil</s:type>
+    <s:vendor>Refectocil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/starter_kit.png?v=1494956282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Refectocil<br>
+        <strong>Type: </strong>Refectocil<br>
+        <strong>Price: </strong>
+            129.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 itemprop="name">STARTER KIT BASIC COLOURS</h1>
+<p><span>Perfect RefectoCil Starter Set!</span></p>
+<p>The RefectoCil Basic Set is the ideal starter set for those wishing to try out RefectoCil eyebrow and eyelash tints for the first time. Packaged in practical small plastic bags you will find all the products you need to perform a full treatment, including the most popular RefectoCil colours, deep black, blue black, natural brown, light brown, graphite and chestnut.</p>
+<p>Basic Set Content:</p>
+<p>1 x <a href="http://refectocilnorthamerica.com/Produkt/refectocil-artist-palette/">Artist Palette </a><br>6 x RefectoCil colours 15 ml (<a href="http://refectocilnorthamerica.com/Produkt/augenbrauen-und-wimpernfarbe-nr-1-tiefschwarz/">pure</a> black, <a href="http://refectocilnorthamerica.com/Produkt/augenbrauen-und-wimpernfarbe-nr-2-blauschwarz/">blue</a> black, natural brown, <a href="http://refectocilnorthamerica.com/Produkt/augenbrauen-und-wimpernfarbe-nr-3-1-lichtbraun/">light</a> brown, <a href="http://refectocilnorthamerica.com/Produkt/augenbrauen-und-wimpernfarbe-nr-1-1-graphit/">graphite</a>, <a href="http://refectocilnorthamerica.com/Produkt/augenbrauen-und-wimpernfarbe-nr-4-kastanie/">chestnut</a>)<br>1 x <a href="http://refectocilnorthamerica.com/Produkt/oxidant-3-fluessig/">Oxidant 3% liquid</a>100 ml<br>1 x <a href="http://refectocilnorthamerica.com/Produkt/wimpernblaettchen-extra/">Eye Protection Papters Extra</a> (80 pcs.)<br>1 x <a href="http://refectocilnorthamerica.com/Produkt/skin-protection-cream/">Skin</a> Protection cream 75 ml<br>1 x <a href="http://refectocilnorthamerica.com/Produkt/kosmetikpinsel-weich/">Cosmetic brush soft</a> (5 pcs.)<br>1 x <a href="http://refectocilnorthamerica.com/Produkt/augen-make-up-entferner/">Eye</a> Make-Up Remover 150 ml<br>1 x Tint Remover 150 ml<br>1 x Colour Chart</p>
+<div id="product_description" class="productcontent">
+<p> <strong>THIS ITEM IS NOT ELIGIBLE FOR DISCOUNT CODES</strong></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basic</s:tag>
+    <s:tag>kit</s:tag>
+    <s:tag>refectocil</s:tag>
+    <s:tag>starter</s:tag>
+    <s:tag>teinture</s:tag>
+    <s:tag>tint</s:tag>
+    <s:tag>tinting</s:tag>
+    <s:tag>trousse</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9284263182</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">129.95</s:price>
+      <s:sku>REFECTOCIL-STARTER-KIT</s:sku>
+      <s:grams>904</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/9284388942</id>
+    <published>2017-01-05T20:24:00-07:00</published>
+    <updated>2017-01-05T20:24:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/refectocil-cosmetic-brush-hard"/>
+    <title>RefectoCil Cosmetic Brush (Hard)</title>
+    <s:type>Refectocil</s:type>
+    <s:vendor>Refectocil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/Kosmetikpinsel_hart-200x220.png?v=1493259138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Refectocil<br>
+        <strong>Type: </strong>Refectocil<br>
+        <strong>Price: </strong>
+            18.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 itemprop="name">COSMETIC BRUSH (HARD)</h1>
+<hr>
+<p>To apply the colour paste professionally</p>
+<hr>
+<div id="product_description" class="productcontent">
+<p>With RefectoCil Cosmetic brush you can easily, quickly and precisely apply RefectoCil Eyelash and Eyebrow Tints and in particular the RefectoCil Blonde Brow for eyebrows.<br>Beautiful eyebrows belong to a perfect look. Whether tinting or bleaching, with this special cosmetic brush you can easily, quickly and precisely apply RefectoCil Eyelash and Eyebrow Tints and in particular the RefectoCil Blonde Brow for eyebrows.<br>RefectoCil Blonde Brow for eyebrows enables salons, for the first time ever, to lighten eyebrows up to 3 shades. Working similar to bleaching powder for hair, it was developed to meet all regulations applicable for bleaching eyebrows.</p>
+<p>The flat, angled and slightly harder synthetic bristle enables a perfect application of the RefectoCil Blonde Brow. For an even bleaching result it is not sufficient to apply the paste superficially, but each hair must be completely covered with the paste from root to tip. The easiest way is first to apply the paste generously in the direction of growth to the eyebrows. Then, by using the cosmetic brush, the paste is being worked into the brows against the direction of growth so that each hair is evenly covered with the paste from root to tip. The cosmetic brush is also suitable for the application of all other RefectoCil Eyelash and Eyebrow Tints. The synthetic bristle has an exceptionally long life time, brush and bristle can easily be cleansed with water.</p>
+<p> </p>
+<p><strong>THIS ITEM IS NOT ELIGIBLE FOR DISCOUNT CODES</strong></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brosse</s:tag>
+    <s:tag>brush</s:tag>
+    <s:tag>hard</s:tag>
+    <s:tag>refectocil</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9284388942</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.85</s:price>
+      <s:sku>REFECTOCIL-BRUSH-HARD</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/9284356750</id>
+    <published>2017-01-05T20:24:00-07:00</published>
+    <updated>2017-01-05T20:24:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/refectocil-artist-palette"/>
+    <title>** CLEARANCE ** RefectoCil Artist Palette</title>
+    <s:type>Refectocil</s:type>
+    <s:vendor>Refectocil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/Artist_Palette-200x220.png?v=1493259065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Refectocil<br>
+        <strong>Type: </strong>Refectocil<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 itemprop="name">REFECTOCIL ARTIST PALETTE</h1>
+<hr>
+<p>Perfect cosmetic dish for tint-mixing</p>
+<hr>
+<div id="product_description" class="productcontent">
+<p>Perfect cosmetic dish for tint-mixing RefectoCil Artist Palette is a practical and at the same time elegant cosmetic dish for tinting eyebrows and eyelashes. The two compartments enable you to compound the eyelash and eyebrow tint at the same time. Two grooves for resting your application sticks and/or brushes guarantee clean working. The RefectoCil Artist Palette makes efficient and comfortable working possible. Convenient for right and left hander.</p>
+<p>The RefectoCil Artist Palette is sturdy, extremely stable and practical. The surface is resistant to chemicals and easy to clean.</p>
+<p>Content: 1 pcs. Artist Palette</p>
+<p> </p>
+<p><strong>THIS ITEM IS NOT ELIGIBLE FOR DISCOUNT CODES</strong></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>artist</s:tag>
+    <s:tag>palette</s:tag>
+    <s:tag>refectocil</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9284356750</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>REFECTOCIL-PALETTE</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/9284337998</id>
+    <published>2017-01-05T20:24:00-07:00</published>
+    <updated>2017-01-05T20:24:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/refectocil-application-set-mini"/>
+    <title>RefectoCil Application Set Mini</title>
+    <s:type>Refectocil</s:type>
+    <s:vendor>Refectocil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/Anwendungsset_Mini-200x220.png?v=1482560627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Refectocil<br>
+        <strong>Type: </strong>Refectocil<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 itemprop="name">APPLICATION-SET MINI</h1>
+<hr>
+<p>Practical set for mixing and applying RefectoCil tints!</p>
+<hr>
+<div id="product_description" class="productcontent">
+<p>The RefectoCil Application Set Mini consists of 5 Mini-Tinting Dishes and 5 Application Sticks with rills. The Tinting Dish is used for mixing the paste for eyelash and eyebrow tinting. It is small, lightweight, unbreakable and its plain surface can be cleaned easily. The shape allows an easy and safe deposit of the Application Stick.</p>
+<p>The Application Sticks in this set differ from the conventional ones by having rills. When applying the tint the hairs are being separated by the rills and this allows the tinting paste to enclose each hair optimally. A beautiful and equal tinting result is guaranteed.</p>
+<p>Content:<br>5 pcs. Mini-Tinting Dishes &amp; 5 pcs. Application Sticks</p>
+<p> </p>
+<p><strong>THIS ITEM IS NOT ELIGIBLE FOR DISCOUNT CODES</strong></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>application</s:tag>
+    <s:tag>refectocil</s:tag>
+    <s:tag>set</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9284337998</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>REFECTOCIL-APP-SET-MINI</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/9390992590</id>
+    <published>2017-01-05T20:21:00-07:00</published>
+    <updated>2017-01-05T20:21:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/refectocil-eyebrow-and-eyelash-tint-no-4-chestnut"/>
+    <title>Refectocil Eyebrow and Eyelash Tint No. 4 CHESTNUT</title>
+    <s:type>Refectocil</s:type>
+    <s:vendor>Refectocil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/farbe-kastanie_evo1-230x230.png?v=1611627745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Refectocil<br>
+        <strong>Type: </strong>Refectocil<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 itemprop="name">EYEBROW AND EYELASH TINT NO. 4 CHESTNUT</h1>
+<hr>
+<p>Charming Chestnut – For a harmonious look!</p>
+<hr>
+<div id="product_description" class="productcontent">
+<p>NEW AND IMPROVED FORMULA: The new and optimized formula offers two essential advantages:</p>
+<p>1. RefectoCil No. 4 chestnut is now ready to mix with every other RefectoCil Colour and therefore offers a multitude of new tinting opportunities.<br>2. The shorter application time of only 10 minutes allows working even more efficiently.</p>
+<p>Whether chestnut, mahogany or copper, red is at present the trendy hair colour. An absolute MUST for a harmonious look is the perfect colour match of eyebrows and hair! For those who like, even the eyelashes can be tinted accordingly. In order to do so, use the new RefectoCil No. 4 chestnut. With RefectoCil No. 4 chestnut you will receive a wonderful result in a red-brown tone of chestnut. The tinting result will be more intensive the lighter the natural hair colour is. When used on light blonde to light brown hair, the result will be very intense. From medium brown hair on the result will be more discreet and a beautiful, soft chestnut lustre will appear. The tint is smudge- and waterproof and lasts up to 6 weeks.</p>
+<p>For a more intense colour effect lighten the eyebrows beforehand with <a href="http://refectocilnorthamerica.com/us/product/refectocil-blonde-brow/">RefectoCil Blonde Brow</a>.</p>
+<p><strong>Tip</strong>: The most beautiful results will be obtained with regular use, as tint will penetrate deeper into the hair and with each application the hair will be tinted more intensely and more durably. Please read the instructions for use!</p>
+<p>Content: 15 ml<br>Sufficient for approximately 30 applications.<br>Please read the instructions for use.</p>
+<p> </p>
+<p><strong>THIS ITEM IS NOT ELIGIBLE FOR DISCOUNT CODES</strong></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brow</s:tag>
+    <s:tag>chestnut</s:tag>
+    <s:tag>cils</s:tag>
+    <s:tag>eyebrows</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>noisette</s:tag>
+    <s:tag>refectocil</s:tag>
+    <s:tag>sourcils</s:tag>
+    <s:tag>teinture</s:tag>
+    <s:tag>tint</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9390992590</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>REFECTOCIL-TINT-4.0-CHESTNUT</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/9390982030</id>
+    <published>2017-01-05T20:19:00-07:00</published>
+    <updated>2017-01-05T20:19:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/refectocil-eyebrow-and-eyelash-tint-no-3-1-light-brown"/>
+    <title>Refectocil Eyebrow and Eyelash Tint No. 3.1 LIGHT BROWN</title>
+    <s:type>Refectocil</s:type>
+    <s:vendor>Refectocil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/farbe-lichtbraun_evo1-230x230.png?v=1611627688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Refectocil<br>
+        <strong>Type: </strong>Refectocil<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 itemprop="name">EYEBROW AND EYELASH TINT NO. 3.1 LIGHT BROWN</h1>
+<hr>
+<p>Luscious Light Brown – For subtle enhancement!</p>
+<hr>
+<div id="product_description" class="productcontent">
+<p>RefectoCil No. 3.1 light brown is suitable to discreetly emphasize light blonde to light brown eyelashes and eyebrows. This colour tone is mainly preferred by blond clients who like a discreet and naturally looking enhancement of their eyebrows.</p>
+<p>With RefectoCil you will always achieve a beautiful, long-lasting and intensive tinting result on eyelashes and eyebrows. Tinted lashes appear clearly longer and more voluminous, as the tinting accentuates the full length of the lashes faded by sun and water. The tint highlights bright and lengthens short lashes; it adds gloss and shine to dull hairs and freshens already greying lashes and brows. Tinted eyebrows appear better defined and more colour intensive. Your eyes appear livelier and expressive – even without make-up. The tint is absolutely smudge- and waterproof and lasts up to 6 weeks.</p>
+<p><strong>Tip</strong>: By mixing RefectoCil No.3.1 light brown with RefectoCil No. 3 natural brown you can easily obtain any intermediate tone your client may wish!</p>
+<p>Content: 15 ml<br>Sufficient for approximately 30 applications.<br>Please read the instructions for use.</p>
+<p> </p>
+<p><strong>THIS ITEM IS NOT ELIGIBLE FOR DISCOUNT CODES</strong></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brown</s:tag>
+    <s:tag>brows</s:tag>
+    <s:tag>brun</s:tag>
+    <s:tag>cils</s:tag>
+    <s:tag>eyebrows</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>light</s:tag>
+    <s:tag>pale</s:tag>
+    <s:tag>refectocil</s:tag>
+    <s:tag>sourcils</s:tag>
+    <s:tag>teinture</s:tag>
+    <s:tag>tint</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9390982030</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>REFECTOCIL-TINT-3.1-LIGHTBROWN</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/9390967118</id>
+    <published>2017-01-05T20:16:00-07:00</published>
+    <updated>2017-01-05T20:16:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/refectocil-eyebrow-and-eyelash-tint-no-3-natural-brown"/>
+    <title>Refectocil Eyebrow and Eyelash Tint No. 3 NATURAL BROWN</title>
+    <s:type>Refectocil</s:type>
+    <s:vendor>Refectocil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/farbe-naturbraun_evo1-230x230.png?v=1611627643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Refectocil<br>
+        <strong>Type: </strong>Refectocil<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 itemprop="name">EYEBROW AND EYELASH TINT NO. 3 NATURAL BROWN</h1>
+<hr>
+<p>Blazing Brunette – Naturally beautiful!</p>
+<hr>
+<div class="productcontent" id="product_description">
+<p>RefectoCil No. 3 natural brown is a very dark, well covering brown tone suitable for clients who prefer an especially natural look. With RefectoCil you will always achieve a beautiful, long-lasting and intensive tinting result on eyelashes and eyebrows. Tinted lashes appear clearly longer and more voluminous, as the tinting accentuates the full length of the lashes faded by sun and water.</p>
+<p>The tint highlights bright and lengthens short lashes; it adds gloss and shine to dull hairs and freshens already greying lashes and brows. Tinted eyebrows appear better defined and more colour intensive. Your eyes appear livelier and expressive – even without make-up. The tint is absolutely smudge- and waterproof and lasts up to 6 weeks.</p>
+<p><strong>Tip</strong>: By mixing RefectoCil No.3.1 light brown with RefectoCil No. 3 natural brown you can easily obtain any intermediate tone your client may wish!</p>
+<p>Content: 15 ml<br>Sufficient for approximately 30 applications.<br>Please read the instructions for use.</p>
+<p> </p>
+<p><strong>THIS ITEM IS NOT ELIGIBLE FOR DISCOUNT CODES</strong></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brow</s:tag>
+    <s:tag>brown</s:tag>
+    <s:tag>brun</s:tag>
+    <s:tag>cil</s:tag>
+    <s:tag>eyebrow</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>naturel</s:tag>
+    <s:tag>refectocil</s:tag>
+    <s:tag>sourcils</s:tag>
+    <s:tag>teinture</s:tag>
+    <s:tag>tint</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9390967118</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>REFECTOCIL-TINT-3.0-NATURALBROWN</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/9390952334</id>
+    <published>2017-01-05T20:14:00-07:00</published>
+    <updated>2017-01-05T20:14:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/refectocil-eyebrow-and-eyelash-tint-no-2-1-deep-blue"/>
+    <title>Refectocil Eyebrow and Eyelash Tint No. 2.1 DEEP BLUE</title>
+    <s:type>Refectocil</s:type>
+    <s:vendor>Refectocil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/farbe-tiefblau_evo1-230x230.png?v=1611627570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Refectocil<br>
+        <strong>Type: </strong>Refectocil<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 itemprop="name">EYEBROW AND EYELASH TINT NO. 2.1 DEEP BLUE</h1>
+<hr>
+<p>Dazzling Deep Blue – Something special for your eyelashes!</p>
+<hr>
+<div id="product_description" class="productcontent">
+<p>RefectoCil No. 2.1 deep blue is an eyelash tint, only effective for women with light blonde to blonde lashes. Unlike RefectoCil No. 2 blue black the shade No. 2.1 deep blue contains a higher blue portion, which appears the more intensive the brighter the natural hair colour is. This eyelash tint suits perfectly to clients with blue eyes or those who like blue or violet eye make-up. RefectoCil No. 2.1 deep blue makes your eye make-up a real highlight!</p>
+<p>With RefectoCil you will always achieve a beautiful, long-lasting and intensive tinting result on eyelashes and eyebrows. Tinted lashes appear clearly longer and more voluminous, as the tinting accentuates the full length of the lashes faded by sun and water. The tint highlights bright and lengthens short lashes; it adds gloss and shine to dull hairs and freshens already greying lashes and brows. Your eyes appear livelier and expressive – even without make-up. The tint is absolutely smudge- and waterproof and lasts up to 6 weeks.</p>
+<p>The best result is achieved when applying the tint regularly, because with each tinting the colour will penetrate deeply into the eyelashes leaving them more intensely and durably coloured.</p>
+<p>Content: 15 ml<br>Sufficient for approximately 30 applications.<br>Please read the instructions for use.</p>
+<p> </p>
+<p><strong>THIS ITEM IS NOT ELIGIBLE FOR DISCOUNT CODES</strong></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bleu</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>brow</s:tag>
+    <s:tag>cils</s:tag>
+    <s:tag>deep</s:tag>
+    <s:tag>eye</s:tag>
+    <s:tag>eyebrow</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>refectocil</s:tag>
+    <s:tag>sourcils</s:tag>
+    <s:tag>teinture</s:tag>
+    <s:tag>tint</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9390952334</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>REFECTOCIL-TINT-2.1-DEEPBLUE</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/9390944014</id>
+    <published>2017-01-05T20:12:00-07:00</published>
+    <updated>2017-01-05T20:12:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/eyebrow-and-eyelash-tint-no-2-blueblack"/>
+    <title>Refectocil Eyebrow and Eyelash Tint No. 2 BLUEBLACK</title>
+    <s:type>Refectocil</s:type>
+    <s:vendor>Refectocil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/farbe-blauschwarz_evo1-230x230.png?v=1611627503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Refectocil<br>
+        <strong>Type: </strong>Refectocil<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 itemprop="name">EYEBROW AND EYELASH TINT NO. 2 BLUEBLACK</h1>
+<hr>
+<p>For particularly expressive eyes!</p>
+<hr>
+<div class="productcontent" id="product_description">
+<p>RefectoCil No. 2 blue black is a black colour with a blue lustre providing additional colour depth to the tinting result. This colour is ideal for anyone who wishes “more” than just a normal black.</p>
+<p>With RefectoCil you will always achieve a beautiful, long-lasting and intensive tinting result on eyelashes and eyebrows. Tinted lashes appear clearly longer and more voluminous, as the tinting accentuates the full length of the lashes faded by sun and water. The tint highlights bright and lengthens short lashes; it adds gloss and shine to dull hairs and freshens already greying lashes and brows. Tinted eyebrows appear better defined and more colour intensive. Your eyes appear livelier and expressive – even without make-up. The tint is absolutely smudge- and waterproof and lasts up to 6 weeks.</p>
+<p>The best result is achieved when applying the tint regularly, because with each tinting the colour will penetrate deeply into the eyelashes leaving them more intensely and durably coloured.</p>
+<p>Content: 15 ml<br>Sufficient for approximately 30 applications.<br>Please read the instructions for use.</p>
+<p> </p>
+<p><strong>THIS ITEM IS NOT ELIGIBLE FOR DISCOUNT CODES</strong></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bleu noir</s:tag>
+    <s:tag>blueblack</s:tag>
+    <s:tag>brow</s:tag>
+    <s:tag>cils</s:tag>
+    <s:tag>eyebrow</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>noir</s:tag>
+    <s:tag>refectocil</s:tag>
+    <s:tag>sourcils</s:tag>
+    <s:tag>teinture</s:tag>
+    <s:tag>tint</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9390944014</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>REFECTOCIL-TINT-2.0-BLUEBLACK</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/9390932558</id>
+    <published>2017-01-05T20:10:00-07:00</published>
+    <updated>2017-01-05T20:10:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/refectocil-eyebrow-and-eyelash-tint-no-1-1-graphite"/>
+    <title>Refectocil Eyebrow and Eyelash Tint No. 1.1 GRAPHITE</title>
+    <s:type>Refectocil</s:type>
+    <s:vendor>Refectocil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/farbe-graphit_evo1-230x230.png?v=1611627452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Refectocil<br>
+        <strong>Type: </strong>Refectocil<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 itemprop="name">EYEBROW AND EYELASH TINT NO. 1.1 GRAPHITE</h1>
+<hr>
+<p>For shining eyes at any age!</p>
+<hr>
+<div id="product_description" class="productcontent">
+<p>RefectoCil No. 1.1 graphite is suitable particularly for eyebrows turned grey. This shade discreetly covers grey or white hair evenly and gives it a light grey to dark grey tone.</p>
+<p>With RefectoCil you will always achieve a beautiful, long-lasting and intensive tinting result on eyelashes and eyebrows. Tinted lashes appear clearly longer and more voluminous, as the tinting accentuates the full length of the lashes faded by sun and water. The tint highlights bright and lengthens short lashes; it adds gloss and shine to dull hairs and freshens already greying lashes and brows. Tinted eyebrows appear better defined and more colour intensive. Your eyes appear livelier and expressive – even without make-up. The tint is absolutely smudge- and waterproof and lasts up to 6 weeks.</p>
+<p>The best result is achieved when applying the tint regularly, because with each tinting the colour will penetrate deeply into the eyelashes leaving them more intensely and durably coloured.</p>
+<p>Content: 15 ml<br>Sufficient for approximately 30 applications.<br>Please read the instructions for use.</p>
+<p> </p>
+<p><strong>THIS ITEM IS NOT ELIGIBLE FOR DISCOUNT CODES</strong></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bottom lashes</s:tag>
+    <s:tag>brow</s:tag>
+    <s:tag>cils</s:tag>
+    <s:tag>eye</s:tag>
+    <s:tag>eyebrow</s:tag>
+    <s:tag>graphite</s:tag>
+    <s:tag>grey</s:tag>
+    <s:tag>gris</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>refectocil</s:tag>
+    <s:tag>sourcils</s:tag>
+    <s:tag>teinture</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9390932558</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>REFECTOCIL-TINT-1.1-GRAPHITE</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/9390911374</id>
+    <published>2017-01-05T20:05:00-07:00</published>
+    <updated>2017-01-05T20:05:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/refectocil-eyebrow-and-eyelash-tint-no-1-pure-black"/>
+    <title>Refectocil Eyebrow and Eyelash Tint No. 1 PURE BLACK</title>
+    <s:type>Refectocil</s:type>
+    <s:vendor>Refectocil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/farbe-tiefschwarz_evo1-1-230x230.png?v=1611627386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Refectocil<br>
+        <strong>Type: </strong>Refectocil<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>EYEBROW AND EYELASH TINT NO. 1 PURE BLACK</strong></p>
+<p>The classic colour among eyelash tints!</p>
+<p>NEW IMPROVED FORMULA: thanks to the new, optimised recipe RefectoCil Nr. 1 pure black now tints even blacker than black. The result is deep, full and even more intense than ever before and so the lashes appear visibly longer and more voluminous. The tint is absolutely smudge- and waterproof and lasts up to 6 weeks. With RefectoCil you will always achieve a beautiful, long-lasting and intensive tinting result of eyelashes and eyebrows.</p>
+<p>Tinted eyelashes appear clearly denser, as the tinting accentuates the full length of the lashes faded by sun and water. The tint highlights and lengthens short lashes; it adds gloss and shine to dull hairs and freshens already greying lashes and brows. Tinted eyebrows appear nicely defined and more colour intensive. Your eyes appear livelier and expressive – even without make-up. The best result is achieved when applying the tint regularly, because with each tinting the colour will penetrate deeply into the eyelashes leaving them more intensely and longer-lasting coloured.</p>
+<p>Content: 15 ml<br> Sufficient for approximately 30 applications.<br> Please read the instructions for use.</p>
+<p> </p>
+<p><strong>THIS ITEM IS NOT ELIGIBLE FOR DISCOUNT CODES</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>brow</s:tag>
+    <s:tag>cil</s:tag>
+    <s:tag>cils</s:tag>
+    <s:tag>eyebrow</s:tag>
+    <s:tag>eyelash</s:tag>
+    <s:tag>lash</s:tag>
+    <s:tag>noir</s:tag>
+    <s:tag>noire</s:tag>
+    <s:tag>pur</s:tag>
+    <s:tag>pure</s:tag>
+    <s:tag>pure black</s:tag>
+    <s:tag>refectocil</s:tag>
+    <s:tag>sourcils</s:tag>
+    <s:tag>teinture</s:tag>
+    <s:tag>tint</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9390911374</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>REFECTOCIL-TINT-1.0-PUREBLACK</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+</feed>

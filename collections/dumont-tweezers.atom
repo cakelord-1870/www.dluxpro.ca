@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.dluxpro.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.dluxpro.ca/collections/dumont-tweezers.atom"/>
+  <title>Lash for Less</title>
+  <updated>2020-03-30T23:19:29-06:00</updated>
+  <author>
+    <name>Lash for Less</name>
+  </author>
+  <entry>
+    <id>https://www.dluxpro.ca/products/4612177657942</id>
+    <published>2020-03-30T23:19:29-06:00</published>
+    <updated>2020-03-30T23:19:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/authentic-6sp-dumont-tweezer"/>
+    <title>Authentic 6SP Dumont Tweezer</title>
+    <s:type>Application Products &amp; Tools</s:type>
+    <s:vendor>Dumont</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/image_d95cebe5-c90a-4a00-90c0-1f91cf9cf966.jpg?v=1585793610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dumont<br>
+        <strong>Type: </strong>Application Products &amp; Tools<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span>Authentic 6SP Dumont Tweezer</span></h3>
+<p><span>Lash For Less is happy to carry the best authentic hand made Swiss tweezers. Made with Inox steel these tweezers are light weight, won't strain, and have expert grip and control. Dumont tweezers are made of stainless steel, making them resistant to corrosion and high temperatures. There tweezers are the highest in lash standards and you can immediately feel the difference hand made perfection makes.</span></p>
+<p>Disclaimer : We do not recommend soaking tweezers in cleaning solution due to risk of corrosion. Disinfecting wipes are better suited for tweezers. If you must soak tweezers please do so for the shortest time allowed and allow to air dry. Dlux and LFL are not responsible for corrosion of tweezers due to improper use of cleansing solutions.  </p>
+<p><span><strong>THIS ITEM IS NOT ELIGIBLE FOR DISCOUNT CODES.  Return Policy: In order to be eligible for return or exchange Dumont Tweezers must be shipped back in original packaging. (Plastic tip and box) if not returned in original condition this product will not be eligible for refund or exchange. </strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/4612177657942</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/1362201182294</id>
+    <published>2018-08-02T20:10:56-06:00</published>
+    <updated>2018-08-02T20:10:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/authentic-5-45-7-dumont-curved-tweezer"/>
+    <title>Authentic 5/45-7 Dumont Curved Tweezer</title>
+    <s:type>Tweezer</s:type>
+    <s:vendor>Dumont</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/xxrjvgdq.jpg?v=1543506924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dumont<br>
+        <strong>Type: </strong>Tweezer<br>
+        <strong>Price: </strong>
+            76.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span>Authentic 5/45-7 Dumont Curved Tweezer</span></h3>
+<p><span>Lash For Less is happy to carry the best authentic hand made Swiss tweezers. Made with Inox steel these tweezers are light weight, won't strain, and have expert grip and control. Dumont tweezers are made of stainless steel, making them resistant to corrosion and high temperatures. There tweezers are the highest in lash standards and you can immediately feel the difference hand made perfection makes.</span></p>
+<p>  <span>Disclaimer : We do not recommend soaking tweezers in cleaning solution due to risk of corrosion. Disinfecting wipes are better suited for tweezers. If you must soak tweezers please do so for the shortest time allowed and allow to air dry. Dlux and LFL are not responsible for corrosion of tweezers due to improper use of cleansing solutions.  </span></p>
+<p><span><strong>THIS ITEM IS NOT ELIGIBLE FOR DISCOUNT CODES.  Return Policy: In order to be eligible for return or exchange Dumont Tweezers must be shipped back in original packaging. (Plastic tip and box) if not returned in original condition this product will not be eligible for refund or exchange. </strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dumont</s:tag>
+    <s:tag>pince</s:tag>
+    <s:tag>pinces</s:tag>
+    <s:tag>pincette</s:tag>
+    <s:tag>pincettes</s:tag>
+    <s:tag>tweezer</s:tag>
+    <s:tag>tweezers</s:tag>
+    <s:tag>volume</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/1362201182294</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">76.95</s:price>
+      <s:sku>TWEEZER-DUMONT-5-45-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/1362201280598</id>
+    <published>2018-08-02T20:08:00-06:00</published>
+    <updated>2018-08-02T20:08:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/authentic-aa-dumont-straight-tweezer"/>
+    <title>Authentic AA Dumont Straight Tweezer</title>
+    <s:type>Tweezer</s:type>
+    <s:vendor>Dumont</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/ducwkllc.jpg?v=1543506956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dumont<br>
+        <strong>Type: </strong>Tweezer<br>
+        <strong>Price: </strong>
+            49.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span>Authentic AA Dumont Straight Tweezer</span></h3>
+<p><span>Lash For Less is happy to carry the best authentic hand made Swiss tweezers. Made with Inox steel these tweezers are light weight, won't strain, and have expert grip and control. Dumont tweezers are made of stainless steel, making them resistant to corrosion and high temperatures. There tweezers are the highest in lash standards and you can immediately feel the difference hand made perfection makes.</span></p>
+<p>  <span>Disclaimer : We do not recommend soaking tweezers in cleaning solution due to risk of corrosion. Disinfecting wipes are better suited for tweezers. If you must soak tweezers please do so for the shortest time allowed and allow to air dry. Dlux and LFL are not responsible for corrosion of tweezers due to improper use of cleansing solutions.  </span></p>
+<p><span><strong>THIS ITEM IS NOT ELIGIBLE FOR DISCOUNT CODES.  Return Policy: In order to be eligible for return or exchange Dumont Tweezers must be shipped back in original packaging. (Plastic tip and box) if not returned in original condition this product will not be eligible for refund or exchange. </strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dumont</s:tag>
+    <s:tag>isolating</s:tag>
+    <s:tag>isolation</s:tag>
+    <s:tag>pince</s:tag>
+    <s:tag>pinces</s:tag>
+    <s:tag>pincette</s:tag>
+    <s:tag>pincettes</s:tag>
+    <s:tag>straight</s:tag>
+    <s:tag>tweezer</s:tag>
+    <s:tag>tweezers</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/1362201280598</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.45</s:price>
+      <s:sku>TWEEZER-DUMONT-AA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/1362200395862</id>
+    <published>2018-08-02T20:03:10-06:00</published>
+    <updated>2018-08-02T20:03:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/authentic-7dsp-dumont-curved-tweezer"/>
+    <title>Authentic 7DSP Dumont Curved Tweezer</title>
+    <s:type>Tweezer</s:type>
+    <s:vendor>Dumont</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/image_a87f773d-5119-4253-aafa-df108ca0f997.jpg?v=1533212330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dumont<br>
+        <strong>Type: </strong>Tweezer<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span>Authentic 7DSP Dumont Curved Tweezer</span></h3>
+<p><span>We are happy to carry the best authentic hand made Swiss tweezers. Made with Inox steel these tweezers are light weight, won't strain, and have expert grip and control. Dumont tweezers are made of stainless steel, making them resistant to corrosion and high temperatures. There tweezers are the highest in lash standards and you can immediately feel the difference hand made perfection makes.</span></p>
+<p> </p>
+<p><span> Disclaimer : We do not recommend soaking tweezers in cleaning solution due to risk of corrosion. Disinfecting wipes are better suited for tweezers. If you must soak tweezers please do so for the shortest time allowed and allow to air dry. Dlux and LFL are not responsible for corrosion of tweezers due to improper use of cleansing solutions.  </span></p>
+<h3>7DSP is the revolutionary version of 7SP. Diamond tip furlong lasting tweezer. <span>Every tip is electroplated with diamonds, ensuring superior gripping power.</span>
+</h3>
+<p><span><strong>THIS ITEM IS NOT ELIGIBLE FOR DISCOUNT CODES.  Return Policy: In order to be eligible for return or exchange Dumont Tweezers must be shipped back in original packaging. (Plastic tip and box) if not returned in original condition this product will not be eligible for refund or exchange. </strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7dsp</s:tag>
+    <s:tag>diamond tip</s:tag>
+    <s:tag>dumont</s:tag>
+    <s:tag>pince</s:tag>
+    <s:tag>pinceau</s:tag>
+    <s:tag>pincette</s:tag>
+    <s:tag>pincettes</s:tag>
+    <s:tag>tweezer</s:tag>
+    <s:tag>tweezers</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/1362200395862</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">99.95</s:price>
+      <s:sku>TWEEZER-DUMONT-7DSP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/9391885646</id>
+    <published>2017-01-05T22:27:00-07:00</published>
+    <updated>2017-01-05T22:27:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/authentic-dumont-curved-tweezer"/>
+    <title>Authentic 7SP Dumont Curved Tweezer</title>
+    <s:type>Tweezer</s:type>
+    <s:vendor>Dumont</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/xxghreed.jpg?v=1543506871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dumont<br>
+        <strong>Type: </strong>Tweezer<br>
+        <strong>Price: </strong>
+            85.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span>Authentic 7SP Dumont Curved Tweezer</span></h3>
+<p><span>Lash For Less is happy to carry the best authentic hand made Swiss tweezers. Made with Inox steel these tweezers are light weight, won't strain, and have expert grip and control. Dumont tweezers are made of stainless steel, making them resistant to corrosion and high temperatures. There tweezers are the highest in lash standards and you can immediately feel the difference hand made perfection makes.</span></p>
+<p>Disclaimer : We do not recommend soaking tweezers in cleaning solution due to risk of corrosion. Disinfecting wipes are better suited for tweezers. If you must soak tweezers please do so for the shortest time allowed and allow to air dry. Dlux and LFL are not responsible for corrosion of tweezers due to improper use of cleansing solutions.  </p>
+<p><span><strong>THIS ITEM IS NOT ELIGIBLE FOR DISCOUNT CODES.  Return Policy: In order to be eligible for return or exchange Dumont Tweezers must be shipped back in original packaging. (Plastic tip and box) if not returned in original condition this product will not be eligible for refund or exchange. </strong></span></p>
+<p><span><strong> t</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dumont</s:tag>
+    <s:tag>inox</s:tag>
+    <s:tag>pince</s:tag>
+    <s:tag>pinces</s:tag>
+    <s:tag>pincette</s:tag>
+    <s:tag>pincettes</s:tag>
+    <s:tag>tweezer</s:tag>
+    <s:tag>tweezers</s:tag>
+    <s:tag>volume</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9391885646</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">85.95</s:price>
+      <s:sku>TWEEZER-DUMONT-7SP</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dluxpro.ca/products/9391892814</id>
+    <published>2017-01-05T22:24:00-07:00</published>
+    <updated>2017-01-05T22:24:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dluxpro.ca/products/authentic-dumont-tweezer"/>
+    <title>Authentic SS /45 Dumont Tweezer</title>
+    <s:type>Tweezer</s:type>
+    <s:vendor>Dumont</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1127/5454/products/duesnimf.jpg?v=1543506883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dumont<br>
+        <strong>Type: </strong>Tweezer<br>
+        <strong>Price: </strong>
+            79.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Authentic SS /45 Dumont Tweezer</h3>
+<p>Lash For Less is happy to carry the best authentic hand made Swiss tweezers. Made with Inox steel these tweezers are light weight, won't strain, and have expert grip and control. Dumont tweezers are made of stainless steel, making them resistant to corrosion and high temperatures. There tweezers are the highest in lash standards and you can immediately feel the difference hand made perfection makes.</p>
+<p>  <span>Disclaimer : We do not recommend soaking tweezers in cleaning solution due to risk of corrosion. Disinfecting wipes are better suited for tweezers. If you must soak tweezers please do so for the shortest time allowed and allow to air dry. Dlux and LFL are not responsible for corrosion of tweezers due to improper use of cleansing solutions.  </span></p>
+<p><strong>THIS ITEM IS NOT ELIGIBLE FOR DISCOUNT CODES. </strong></p>
+<p><span><strong>  Return Policy: In order to be eligible for return or exchange Dumont Tweezers must be shipped back in original packaging. (Plastic tip and box) if not returned in original condition this product will not be eligible for refund or exchange. </strong></span></p>
+<p><span><strong> </strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dumont</s:tag>
+    <s:tag>isolating</s:tag>
+    <s:tag>isolation</s:tag>
+    <s:tag>pince</s:tag>
+    <s:tag>pinces</s:tag>
+    <s:tag>pincette</s:tag>
+    <s:tag>pincettes</s:tag>
+    <s:tag>tweezer</s:tag>
+    <s:tag>tweezers</s:tag>
+    <s:tag>volume</s:tag>
+    <s:variant>
+      <id>https://www.dluxpro.ca/products/9391892814</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>TWEEZER-DUMONT-SS45</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+</feed>
